@@ -1,0 +1,193 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Evidence Desk — Verify a claim against recent news</title>
+<meta name="description" content="Evidence Desk is an open agentic website: a multi-agent network that verifies a claim against recent news coverage, entirely in your browser.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./css/styles.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230f3d2e'/%3E%3Cpath d='M9 23V9h3.4l6 8.6V9H22v14h-3.4l-6-8.6V23z' fill='%23faf7f1'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a class="wordmark" href="./" aria-label="Evidence Desk home">
+      <span class="wordmark-mark" aria-hidden="true">E</span>
+      <span class="wordmark-text">Evidence&nbsp;Desk</span>
+    </a>
+    <div class="topbar-right">
+      <span class="badge" title="Built to the Open Agentic Web MVP Profile 0.3">Open Agentic Web</span>
+      <span id="model-status" class="model-status" role="status">No model configured</span>
+      <button id="settings-btn" class="btn btn-ghost" type="button">Model settings</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="hero">
+    <p class="eyebrow">An open agentic website &middot; multi-agent verification, in your browser</p>
+    <h1>Verify a claim against recent news.</h1>
+    <p class="lede">Paste a claim &mdash; or a paragraph from an article &mdash; and a small network of agents
+      finds the sources, cross-checks them, and writes a sourced verdict with a confidence score.
+      The agents run in <em>your</em> browser on <em>your</em> model key. This site never sees your key
+      and never pays for inference.</p>
+    <p id="snapshot-badge" class="snapshot-badge" role="status">Loading coverage snapshot&hellip;</p>
+  </section>
+
+  <section class="card claim-card" aria-label="Verify a claim">
+    <label class="field-label" for="claim-input">Claim or pasted article text</label>
+    <textarea id="claim-input" rows="3" maxlength="4000"
+      placeholder="e.g. A central bank raised interest rates this week."></textarea>
+    <div class="chip-row" id="example-chips" aria-label="Try an example claim">
+      <span class="chip-label">Try one:</span>
+      <button type="button" class="chip" data-claim="A major earthquake struck Indonesia this week.">Earthquake in Indonesia</button>
+      <button type="button" class="chip" data-claim="A central bank raised interest rates this week.">Central bank rates</button>
+      <button type="button" class="chip" data-claim="Scientists announced a breakthrough in fusion energy.">Fusion breakthrough</button>
+      <button type="button" class="chip" data-claim="A new COVID variant is spreading rapidly.">New COVID variant</button>
+    </div>
+    <div class="claim-actions">
+      <button id="verify-btn" class="btn btn-primary" type="button">Verify this claim</button>
+      <p class="fineprint">Agents cite only the recent-coverage snapshot or text you paste.
+        If a claim is not in the coverage, the verdict says so &mdash; it never invents a source.</p>
+    </div>
+    <p id="notice" class="notice" role="alert" hidden></p>
+  </section>
+
+  <section id="activity" class="card activity-card" aria-label="Agent activity" hidden>
+    <div class="section-head">
+      <h2>Agent activity</h2>
+      <span id="activity-status" class="activity-status">Starting&hellip;</span>
+    </div>
+    <ol id="activity-list" class="activity-list"></ol>
+    <details class="transcript">
+      <summary>Live transcript</summary>
+      <pre id="live-transcript" class="live-transcript" aria-live="polite"></pre>
+    </details>
+  </section>
+
+  <section id="verdict" class="verdict-section" aria-label="Verdict" hidden>
+    <div id="verdict-card"></div>
+  </section>
+
+  <section class="how">
+    <h2>How it works</h2>
+    <ol class="steps">
+      <li>
+        <span class="step-agent">front_desk_coordinator</span>
+        <p>Takes your claim and runs the verification: source finding, cross-checking, then the verdict.</p>
+      </li>
+      <li>
+        <span class="step-agent">source_finder</span>
+        <p>Searches the site&rsquo;s recent-coverage snapshot &mdash; headlines refreshed every 6 hours from public news RSS &mdash; and returns matching sources with links and dates.</p>
+      </li>
+      <li>
+        <span class="step-agent">cross_checker</span>
+        <p>Compares the sources: where they agree, where they conflict, whether they are independent outlets, and what is missing.</p>
+      </li>
+      <li>
+        <span class="step-agent">verdict_writer</span>
+        <p>Writes the verdict as structured data: supported, refuted, mixed, or unverifiable &mdash; with evidence, a confidence score, and what would change the verdict.</p>
+      </li>
+    </ol>
+    <p class="how-note">After a verdict, you can ask for a <strong>citation audit</strong>: this site calls the
+      <a href="https://citation-mirror.vercel.app/" target="_blank" rel="noopener">Citation Mirror</a>
+      peer network, which runs a six-trial spot check on the model that wrote the brief &mdash; in your browser,
+      on your key, and only after you approve it on a consent card.</p>
+  </section>
+
+  <section class="for-agents">
+    <h2>For agents and other agentic websites</h2>
+    <p>This site publishes its agent network for anyone to call. The network runs in the caller&rsquo;s browser
+      on the caller&rsquo;s model; this site never receives the caller&rsquo;s key.</p>
+    <dl class="spec-links">
+      <div><dt>Agent network</dt><dd><code>https://andipangeranm142.github.io/evidence-desk/evidence_desk</code></dd></div>
+      <div><dt>Manifest</dt><dd><a href="./agent-manifest.json">agent-manifest.json</a></dd></div>
+      <div><dt>Network definition</dt><dd><a href="./evidence_desk.network.json">evidence_desk.network.json</a></dd></div>
+      <div><dt>Peer links</dt><dd><a href="./links.json">links.json</a></dd></div>
+      <div><dt>Runtime</dt><dd><a href="./js/engine.js">js/engine.js</a> &mdash; an original browser runtime for MVP Profile 0.3</dd></div>
+      <div><dt>Coverage snapshot</dt><dd><a href="./data/news-snapshot.json">data/news-snapshot.json</a></dd></div>
+    </dl>
+  </section>
+
+  <footer class="footer">
+    <p>Evidence Desk &middot; an entry for the
+      <a href="https://cognizant-agenticweb.devpost.com/" target="_blank" rel="noopener">Open Agentic Web Challenge</a>
+      (Cognizant &middot; MIT Media Lab NANDA &middot; Mozilla &middot; AWS). Open source (MIT):
+      <a href="https://github.com/andiPangeranm142/evidence-desk" target="_blank" rel="noopener">github.com/andiPangeranm142/evidence-desk</a>.
+      Built to the <a href="https://github.com/cognizant-ai-labs/agentic-web/blob/main/docs/worldwide_agentic_web_mvp_spec.md" target="_blank" rel="noopener">Open Agentic Web MVP Profile 0.3</a>.</p>
+    <p class="fineprint">Verdicts are only as good as the recent coverage they cite. Always read the linked sources before acting on a verdict.</p>
+  </footer>
+</main>
+
+<!-- Model settings drawer -->
+<div id="settings-drawer" class="drawer-overlay" hidden>
+  <div class="drawer" role="dialog" aria-modal="true" aria-labelledby="settings-title">
+    <div class="drawer-head">
+      <h2 id="settings-title">Model settings</h2>
+      <button id="settings-close" class="btn btn-ghost" type="button" aria-label="Close settings">&times;</button>
+    </div>
+    <p class="drawer-intro">Agents run on a model <em>you</em> choose. Your key stays in this browser
+      (localStorage, this site only) and is sent only to the router you select. Delete it any time.</p>
+
+    <fieldset class="preset-group">
+      <legend>Provider preset</legend>
+      <div class="preset-row">
+        <button type="button" class="preset" data-preset="openrouter">OpenRouter <span>free models</span></button>
+        <button type="button" class="preset" data-preset="otari">Mozilla Otari <span>qwen3.8-flash</span></button>
+        <button type="button" class="preset" data-preset="custom">Custom <span>any OpenAI-compatible router</span></button>
+      </div>
+    </fieldset>
+
+    <label class="field-label" for="router-url">Router base URL</label>
+    <input id="router-url" type="url" inputmode="url" autocomplete="off" spellcheck="false"
+      placeholder="https://openrouter.ai/api/v1">
+    <label class="field-label" for="model-name">Model</label>
+    <input id="model-name" type="text" autocomplete="off" spellcheck="false"
+      placeholder="meta-llama/llama-3.3-70b-instruct:free">
+    <label class="field-label" for="api-key">API key <span class="field-hint">(stored only in this browser)</span></label>
+    <input id="api-key" type="password" autocomplete="off" spellcheck="false" placeholder="sk-or-…">
+    <p class="field-help">No key yet? <a href="https://openrouter.ai/keys" target="_blank" rel="noopener">OpenRouter keys</a>
+      are free to create, and models ending in <code>:free</code> cost nothing.
+      Otari: <a href="https://otari.ai" target="_blank" rel="noopener">otari.ai</a>.</p>
+    <div class="drawer-actions">
+      <button id="save-profile" class="btn btn-primary" type="button">Save and use this model</button>
+      <button id="clear-profile" class="btn btn-ghost" type="button">Delete saved key</button>
+    </div>
+    <p id="profile-status" class="profile-status" role="status"></p>
+
+    <hr class="drawer-divider">
+    <h3>On-device model (experimental)</h3>
+    <p class="drawer-intro">Run a small model locally with WebLLM &mdash; no key needed. Requires a browser with
+      WebGPU and downloads about 1&nbsp;GB of model weights on first use. Tool calling on a 1.5B model is
+      less reliable than a hosted model; use it to try the site, not for careful verification.</p>
+    <p id="webllm-status" class="profile-status" role="status"></p>
+    <div class="drawer-actions">
+      <button id="webllm-init" class="btn btn-secondary" type="button">Load on-device model</button>
+      <button id="webllm-disable" class="btn btn-ghost" type="button">Use BYOK instead</button>
+    </div>
+    <progress id="webllm-progress" max="1" value="0" hidden></progress>
+  </div>
+</div>
+
+<!-- Consent modal -->
+<div id="consent-modal" class="drawer-overlay" hidden>
+  <div class="drawer consent-card" role="alertdialog" aria-modal="true" aria-labelledby="consent-title">
+    <h2 id="consent-title">Approve a third-party contact?</h2>
+    <p><strong>Destination:</strong> <code id="consent-origin"></code></p>
+    <p id="consent-purpose"></p>
+    <p class="fineprint">Your API key is never sent to this origin. Only the request text goes to the peer
+      network, which runs in your browser on your model.</p>
+    <div class="drawer-actions">
+      <button id="consent-once" class="btn btn-primary" type="button">Allow once</button>
+      <button id="consent-session" class="btn btn-secondary" type="button">Allow for this session</button>
+      <button id="consent-deny" class="btn btn-ghost" type="button">Deny</button>
+    </div>
+  </div>
+</div>
+
+<script type="module" src="./js/app.js"></script>
+</body>
+</html>

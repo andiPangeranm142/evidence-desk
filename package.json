@@ -1,0 +1,1 @@
+{"description":"Evidence Desk — an open agentic website that verifies claims against recent news coverage.","license":"MIT","name":"evidence-desk","private":true,"scripts":{"snapshot":"node scripts/build-news-snapshot.mjs","test":"node scripts/test-engine.mjs"},"type":"module","version":"1.0.0"}

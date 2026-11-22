@@ -1,0 +1,1 @@
+{"brand":"Fixture Peer","networks":[{"description":"A one-agent fixture peer used by the offline tests.","front_man":"echo_peer","hocon":"./echo_peer.network.json","name":"echo_peer"}]}
