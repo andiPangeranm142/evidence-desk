@@ -81,8 +81,11 @@ node scripts/test-engine.mjs   # offline: validation, mock-LLM run, peer protoco
 ```
 
 The offline tests use a scripted mock LLM and a local fixture peer site, so
-they run without any API key. The live end-to-end test (real model + real
-Citation Mirror peer call) is documented in the repository history.
+they run without any API key. The live end-to-end test
+([`tests/e2e-live.cjs`](tests/e2e-live.cjs), Playwright + a real model +
+the real Citation Mirror peer call) needs an OpenRouter key in
+`~/workspace/cortensor/.env` on the dev machine; it polls for the free
+daily quota and verifies an in-coverage claim plus the full peer audit.
 
 ## License
 
