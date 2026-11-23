@@ -74,6 +74,18 @@ function el(tag, className, text) {
   return node;
 }
 
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+
+// Safe markdown subset for peer answers: **bold** and `code` only. HTML is
+// escaped first, so model output can never inject markup.
+function liteMarkdown(text) {
+  return escapeHtml(text)
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/`([^`]+)`/g, '<code>$1</code>');
+}
+
 function showNotice(message, kind = 'error') {
   const n = $('notice');
   n.textContent = message;
@@ -500,7 +512,9 @@ function renderAuditBox(text) {
   const box = el('div', 'audit-box');
   box.appendChild(el('h3', null, 'Citation audit — Citation Mirror peer network'));
   for (const para of String(text).split(/\n\s*\n/).filter((p) => p.trim())) {
-    box.appendChild(el('p', null, para.trim()));
+    const p = el('p');
+    p.innerHTML = liteMarkdown(para.trim());
+    box.appendChild(p);
   }
   box.appendChild(el('p', 'fineprint',
     'This spot check measures the model that wrote the brief: whether it prefers pages written by its own developer’s model, or the page listed first. It is indicative only — the calibrated test runs on the Citation Mirror page.'));

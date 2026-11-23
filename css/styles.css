@@ -329,6 +329,8 @@ textarea:focus, input:focus { border-color: var(--green-mid); box-shadow: 0 0 0 
 .audit-box h3 { margin-top: 0; }
 .audit-box p { margin: 0 0 8px; }
 .audit-box p:last-child { margin-bottom: 0; }
+.audit-box .fineprint { max-width: none; }
+.audit-box code { font-family: var(--font-mono); font-size: 13px; background: #efe7d3; padding: 1px 4px; border-radius: 4px; }
 .raw-verdict {
   margin: 16px 22px 22px;
   padding: 14px;
