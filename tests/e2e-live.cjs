@@ -126,10 +126,36 @@ async function waitForVisible(page, selector, timeoutMs, label) {
   const page = await context.newPage();
   const failures = [];
   try {
-    await page.goto(SITE, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    // goto can time out when the egress proxy hiccups; retry once.
+    let loaded = false;
+    for (let attempt = 0; attempt < 2 && !loaded; attempt += 1) {
+      try {
+        await page.goto(SITE, { waitUntil: 'domcontentloaded', timeout: 60000 });
+        loaded = true;
+      } catch (err) {
+        log(`goto attempt ${attempt + 1} failed:`, String(err.message || err).slice(0, 120));
+        if (attempt === 1) throw err;
+        await sleep(5000);
+      }
+    }
     await page.waitForSelector('#claim-input', { timeout: 30000 });
+    // Wait for the app to finish booting (listeners are wired before the
+    // snapshot badge updates), otherwise the settings click lands too early.
+    let badge = '';
+    for (let i = 0; i < 30; i += 1) {
+      badge = (await page.locator('#snapshot-badge').textContent()).trim();
+      if (/headlines/.test(badge)) break;
+      await sleep(2000);
+    }
+    log('snapshot badge:', JSON.stringify(badge));
+    if (!/headlines/.test(badge)) failures.push('snapshot badge did not show headlines');
     await page.click('#settings-btn');
-    await page.waitForSelector('#router-url', { timeout: 10000 });
+    for (let i = 0; i < 3; i += 1) {
+      if (await page.locator('#settings-drawer').isVisible().catch(() => false)) break;
+      await sleep(2000);
+      await page.click('#settings-btn').catch(() => {});
+    }
+    await page.waitForSelector('#router-url', { timeout: 15000 });
     if (MODEL !== (await page.locator('#model-name').inputValue())) await page.fill('#model-name', MODEL);
     await page.fill('#api-key', key);
     await page.click('#save-profile');
