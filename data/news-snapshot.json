@@ -1,16 +1,321 @@
 {
-  "generated_at": "2026-11-24T16:48:46.798Z",
+  "generated_at": "2026-11-24T20:29:31.158Z",
   "sources": [
-    "bing"
+    "bing",
+    "google"
   ],
   "categories": {
-    "world": 0,
-    "technology": 0,
-    "business": 0,
-    "health": 10,
-    "science": 0
+    "world": 12,
+    "technology": 12,
+    "business": 12,
+    "health": 9,
+    "science": 12
   },
   "items": [
+    {
+      "title": "Pope Francis' diary reveals claims he saw the devil three times",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FZnFuN0ZUVkMzeE1uZEdJXzZYcFJQZmx2bWFvOGY0amhPUVNxM3R6eXhua2dncHlQUEJXdnJ4bmVGVk1va2drVmd2OUpjWUFFTlJMdDFCSmRiOGs?oc=5",
+      "published": "Tue, 24 Nov 2026 11:10:57 GMT",
+      "snippet": "Pope Francis' diary reveals claims he saw the devil three times &nbsp;&nbsp; BBC",
+      "source": "BBC",
+      "category": "world"
+    },
+    {
+      "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjBBNmluQUtFZGNIdTVyM3RqaFlvSWQxMGpaWnBEQlFGUjhJX3ZDc0J6MENrN294ZEZCVmVZbVBINVNpRndUaEdrRHhVYzdKUjVzN1ZtOWV1QXlwNW1ORlhDaXQ1MjNVYnBNU0s2Rk4welVsQmxWdGxNemJOR3gySEFhaWVaTWtsclBSYS13?oc=5",
+      "published": "Tue, 24 Nov 2026 18:50:09 GMT",
+      "snippet": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian",
+      "category": "world"
+    },
+    {
+      "title": "Iran War Updates: Iran developing chemical weapons, Israeli defense minister says",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUlsRWg2Szd1Z3JjWkRCcFVMdTh1cDhrT0lxUEZ0UXRHVjZ5QWJaSWRFVmxfT2Nlcnp5UjZPOG9MaFE0SmZ5UndIejdacWRYT3hGVHZiNVQ1a1lOa0tUZVdjRm1rVDZkMWRPTWd2R0JLamZfYm1lcEREbE12ajRCNTZSdERlMFpObDVFSkowV2h3THRkdlFoMUxR?oc=5",
+      "published": "Tue, 24 Nov 2026 18:42:00 GMT",
+      "snippet": "Iran War Updates: Iran developing chemical weapons, Israeli defense minister says &nbsp;&nbsp; CBS News",
+      "source": "CBS News",
+      "category": "world"
+    },
+    {
+      "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1M4aVFTYm8wQUVFVnZORlp4X0psUWZrTE1NYWdrSkpXSEphSDNBZmw4ZlVRNDJqODdHWXFtRV9manBUeFFIeTB4VVNPbE8wUmRfeXMxclE2dGdwZWgydEhqQV95azhEaWRyU0VqUjgtUzcydU04bmFtQVFDTjVvQ01FMlRDN0RNSDFXZU5QeVRFTHZ10gGaAUFVX3lxTE9GamxQamdqZWQ0T0dUZ1VMOS1tRnBhaDFiMUtWTWNMZVJoeVh2dl83Y1h4amxzNFF3SUZ4WFNxMkdKVlpQeEpDa2RzU1dIZEs4M045d2FHdnZuX0JXdnRhVU5SWlRWWVNOZFJrVExUeXpET1NuUEVXTzhYT2dWdklGWW5jTldVQU9iSkprSTF6anNIQ2FwVTFZamc?oc=5",
+      "published": "Tue, 24 Nov 2026 12:57:16 GMT",
+      "snippet": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach &nbsp;&nbsp; Al Jazeera",
+      "source": "Al Jazeera",
+      "category": "world"
+    },
+    {
+      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjJQeUlvMi1GT0xmbzR0d3ZEYVpPNzF3UWV0SUo4ZG1BUVlKMDRJbUZCR3l1cnoyTEhjNm5lNGhLNE1Dd09faE13Nkt6dzlUU2MwTGxmYUVQeVZDQ2ZBanZGMG1ObExkZ245NHYyeUVwZDZBT1lzRzBSN0o0bHY3T3p0VE84M1JaLXJzYkNDWGVpMHJNekFIa3JDNzNCRnZjLVE?oc=5",
+      "published": "Tue, 24 Nov 2026 12:34:52 GMT",
+      "snippet": "Iranian Singer Receives 74 Lashes for Performing With No Hijab &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times",
+      "category": "world"
+    },
+    {
+      "title": "'Awaiting the king's return': Taiwan celebrates Huang's return to Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaTZ6TUZYZWVkRjE2bWxnV3RrVlZlLVhmUkJCYkNzZzhkNGJ0cUZuTFNTY3ktRFB0X252eVpXdmxVTHhVbm9zOC1mcXVfcDJ5Q1RWMFdqOFBwWWNtazJfV0prNXhpUHRLZHJLSXlzTVR0eTdKZG9yRWxYdGE2SnJPT1Fwd2VYNlhXclRaQjJvTVRFTXg2Z0MzUGc3bkp6SXVDT1ZKMV9DX044UzZRQjRpZ2pHbmwxcDBjTnc?oc=5",
+      "published": "Tue, 24 Nov 2026 07:29:00 GMT",
+      "snippet": "'Awaiting the king's return': Taiwan celebrates Huang's return to Nvidia &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "category": "world"
+    },
+    {
+      "title": "Gisele Pelicot 'deeply shocked' after nude photos used to promote book",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3N6ZWpqdWNXVklfLXNOazhOX2R3ZlRNWXRCTTVKeHZUY002bUtoY1Btb2FOZDFkd3JJM2J6UjAzbldUX3dGWXU2eW9PR1Z4QUJtMm1lSGpaVXJoaTdYUDVyZ2V2TGVBaHJIdnJmSVdKc0hiWGVKMHpwYUdIS3Jlb001Z0plYzVkZUhndU4teF9wSlZia2lxRjFHMDkwa1k5bFFUQ0w3UQ?oc=5",
+      "published": "Tue, 24 Nov 2026 03:00:56 GMT",
+      "snippet": "Gisele Pelicot 'deeply shocked' after nude photos used to promote book &nbsp;&nbsp; Sky News",
+      "source": "Sky News",
+      "category": "world"
+    },
+    {
+      "title": "Exiled Sheikh Hasina plans return to tense Bangladesh on Dec 16, defying arrest threat | World News",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUUdZWENpSEtzbS1tUHRjQ3BuMEhMMG95R05kVEl3Q1BaQWNUOVROaXJDclBUbFNyWm52X1ZUTWR2Um9tUlF5d0hRaWxVUzdwenBpYVhhS1dPS1RuX1p4RDExWmdRNXl1dEVJYkhOTGlvM00wNERzRTVCd2t3RFlDMFQtaUM2dkhlekFVUlhHZEN0Yk5VV0FnQXZ5WEl3UlRXMWxVY0JEbzVEUkxuaEFtMHZWZnY5anBvWEtWQWxCdHhMV09aS21QQm9WeWJoT3Z2dy1iRUpqYWw1Vm90MVhnTHJn0gHnAUFVX3lxTFBuSWVrWlFWdWhqSGpwQjNSVEZQLU02WWg1SW5pV0xjYW8tSGxkQVdzYnBPVExJTE0wUm9tYVF4ZVF2TXRaMWl0VFRNSklLTGF2bVE5RFdZTjZ2c3FTRk0xMmE2cWdnSWpkRW9aQTdrbHVGenVtNTNtRkViTjNQRkJvNVVYNGswR1g1c2NaeU1mdF84SzgyQjlkUHF4SGpWMEFLSk9pU3g2S3RMbTRWMG9DeWdYNUc2QXg4VkIybjEzWE5qMjNzSFVjejNickZ3NUh5TXpsRUhmYmJZdk5aV1FwSUw0aVFZZw?oc=5",
+      "published": "Tue, 24 Nov 2026 03:25:21 GMT",
+      "snippet": "Exiled Sheikh Hasina plans return to tense Bangladesh on Dec 16, defying arrest threat | World News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "category": "world"
+    },
+    {
+      "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1htVDk2anJoMm9ITld4WndhUTNSMXAwVXA1X0c0SFIzajFNb0o2RzRNZjdWNEtfdkVKM1FxSDMyM0UtbllWNEdUbEtSZnNJX1V6N2ZCQmlrT3hKUG1CNzR5dlV0dDZXTEJ6U2Q4NURSNVpqQUVIMlkzWlQ2LU54dldEUVpxWTZQZTZOS1lXY2l3RXVXM1F5dkNFMWh4UjVrMEZqMFVUeS1zUTRQa3NBNE9KdnhnNG1tUzRrVW1kRG9pUlAxMEJvQjJoNnA4UQ?oc=5",
+      "published": "Tue, 24 Nov 2026 18:45:00 GMT",
+      "snippet": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after alleged affair with Chinese spy but no security risk found – live &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian",
+      "category": "world"
+    },
+    {
+      "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUtWdVJPaUZZOXBmZ0VhUzJTaWNKQVNwUFhzMmVaRWY3MW9ITXVnbWpMd2h0cmdyTEtmaDloN2E1VmNQd056ZTMwSVFPazRtSWtLZ1NXa1NBMUkzQ3VwNjJUajFhZ3B3UXlGNnF3WWhNNUxHelhoZUkzWS1XZERMZ25lSDcxcHVYZHBUbmJlb0FHaGlNSFU1eXF3?oc=5",
+      "published": "Tue, 24 Nov 2026 02:30:00 GMT",
+      "snippet": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian",
+      "category": "world"
+    },
+    {
+      "title": "Think that you’re anonymous online? AI can blow your cover",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CZTRvcFlQelE2Mkh3RG9sRHVwVDlKZnFROUhKQXMzZGdPUG0xbGNYTU9DSVZ5THBhcW80b0cxSG4weVZCR3JGU2w2WXBzTDh6aFJhZGI0ZTNMRnQzalQ4U2J2MlJIUzUtbVh6eGh6X29nQlNweEEzVg?oc=5",
+      "published": "Tue, 24 Nov 2026 16:02:38 GMT",
+      "snippet": "Think that you’re anonymous online? AI can blow your cover &nbsp;&nbsp; Northeastern Global News",
+      "source": "Northeastern Global News",
+      "category": "world"
+    },
+    {
+      "title": "U.S. and world news for Nov. 24",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9zM09udmo1cTU3SGJFVVgtUjd2V2NMSkM2ZkJpOHEzRVFWbDcySjJoYThlcDRXV0lLaWtKTWFaNDlKLVNVajF3Z0xfYml4TDN3cU9raDhTdW1oNEZpd3RSMXhXeUlQS19uNXBPVk1xU3J3VnQxSlZz?oc=5",
+      "published": "Tue, 24 Nov 2026 14:41:13 GMT",
+      "snippet": "U.S. and world news for Nov. 24 &nbsp;&nbsp; Westfair Communications",
+      "source": "Westfair Communications",
+      "category": "world"
+    },
+    {
+      "title": "What does it mean when humans and technology become indistinguishable?",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0lUQjVSanJia2o2bWpRWlIxMm54VGVkTTJRWnpSNlp3UnY1YVNMZjJjcklMUlBFclBqeWVCaHp3Zlg3dS1CdFo2Q1FSdHA4czQxYkRLc214dkZuajhSY211LVU2RW9rYkJkYnFmSUtoU2d5aTc2RGRwT2pvZEtCRl9EN3pjWVp2Um5sOXZQR2pRSmJDY1Zj?oc=5",
+      "published": "Mon, 23 Nov 2026 11:01:00 GMT",
+      "snippet": "What does it mean when humans and technology become indistinguishable? &nbsp;&nbsp; Aeon",
+      "source": "Aeon",
+      "category": "technology"
+    },
+    {
+      "title": "Meta's Muse has launched in the UK. I found it helpful but awkward",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpdU54NklYaC1NWnVoUlpoMHpnX1hSRC00SHRTdzFtOGtxSGNYdE1KdWZOSzJHTU9EZmNWekEzNDA1aVZKMXllMHBMUkMxWlRJQTBGU0NSTktDcEE?oc=5",
+      "published": "Tue, 24 Nov 2026 09:33:00 GMT",
+      "snippet": "Meta's Muse has launched in the UK. I found it helpful but awkward &nbsp;&nbsp; BBC",
+      "source": "BBC",
+      "category": "technology"
+    },
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJjY0Z0eXltTjlvZFE1YkNJNGFPYUhjY3k3QUExczJNbkc0dGZzeHVndVZwQ1VzRmYyY2hjX0pqdWtfTTEyS0ZqVVYzajlMSVViZGppWFlqRThpbW5BNGdsemJOQk9kcVc5VmFEcnFsandWUy1hM2JkNWIwOTN2RzBRbWVwNWN5MTZCaEdsQVB4OEpUSDNiZDIzaHlQdnd0Yzg5blhhUHFHcnBaQmViaEhjQ2JxdnkwWnNSdVNOONIBxAFBVV95cUxNa1ZNcWxfTVFmYnpIWGh0Q21UaE9KbnBydERsMDZINEJuTHktSldwdXFmaXhJXzNoUnRQWkxsNHk4WHlacWdyMU9NMHM0M2tOQ1VZbDJ3NGlrRTI2ekFrajgyclVFeUlzZ3NqREV3clM4R2UycDlleW1uMmtMSmdaUVlOdjl2S1VvSGM0ZmEzaGRNZjlXTzVCN1RqblhwbndacGJMdVU1NFZLUzM3M01oM2RZY0pzZXZFOHBFME5FQ25tSlNx?oc=5",
+      "published": "Mon, 23 Nov 2026 17:36:08 GMT",
+      "snippet": "A legendary philosopher isn’t buying Anthropic’s consciousness argument &nbsp;&nbsp; MIT Technology Review",
+      "source": "MIT Technology Review",
+      "category": "technology"
+    },
+    {
+      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTU5SSG1aeEtZa1d3MUZ4clc0NE43QW15aXhrUXZtNzJyU0N5UUE1QnNuVkJ5dnNoLVFtZjNsLV8zTnRpZWdscTNEYXhCcnkxdTdsTlN3QmdLazZlZURUTmhRSkwtcy15RnZRUzVlQi0wVWFMNXY1ZVJJWlluOE55RmkxSGZIXzlYdlc3VjZDVDBvQi1P?oc=5",
+      "published": "Mon, 23 Nov 2026 10:00:00 GMT",
+      "snippet": "Seniors embrace Tesla automated driving technology despite questions about safety &nbsp;&nbsp; NPR",
+      "source": "NPR",
+      "category": "technology"
+    },
+    {
+      "title": "Data centers are getting their own natural gas power plants",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEwxbFI5aGt1bmZxcWUwamFGeFZjODJTbzUzdHVjYUdKTzZGNkZvNHNJT1lCMl9JTUNYcHI0cFREbFlhWU05aWk1TW02VXUxM090UmF4bThwM084ODRadUstWTZwcmE1ZGYxSXpiWDNFUWc4SnZZMHVaUThkWUhnWG14WdIBiAFBVV95cUxPR2llV2tYT0pWTE1WUDhZNG5MU3dSSXJJbUZod3BBNlZ4UEpzOTh5YXE2UEM0aGtVV0JydUdsWU5DR1d2ZmxyaEZveVRNTTFNdHBTTERoeU5FZVNjZkdNczZhbmpUN0lSc1AxeHk5bmdqRWlveUdlZEJIX1lYTk93ZDl6UmlZRkRy?oc=5",
+      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
+      "snippet": "Data centers are getting their own natural gas power plants &nbsp;&nbsp; MIT Technology Review",
+      "source": "MIT Technology Review",
+      "category": "technology"
+    },
+    {
+      "title": "Can Pirelli’s Cyber Tyre Technology Replace Traditional Drive Modes?",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmQ3WmdFdG1IdnRCZDlVOTc4NkRJWFRrcVktdlB6ZDZBVnZwb2g2aWhUc1JrajRjUkc5OVlIVmQtMHRfWVBrN3dqRTFJV1A0ZUhVcWJRaXR5MDFPTjgzcWZSaEpfUjFUVGRMdWYta1ZtYTk0bm9TUkJLRjZ5MDluT3V4eXBkajA2dzQ1dVMzQUl6Zktx?oc=5",
+      "published": "Mon, 23 Nov 2026 21:53:53 GMT",
+      "snippet": "Can Pirelli’s Cyber Tyre Technology Replace Traditional Drive Modes? &nbsp;&nbsp; Car and Driver",
+      "source": "Car and Driver",
+      "category": "technology"
+    },
+    {
+      "title": "Advanced DNA technology identifies human remains found in Tallahassee, ‘ending a 24-year mystery’",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZElQSU5yNEN3b1ZNejVvcEZaRDB4T1duR0hFVk9jZjZSM1QtQXpYaFpCSzFOQURrQU16ZUc4MFVUM3dpVC10LXJJUXlxV1dKd1FEdWJNQ0Q1bmZqNHFVemNRY2ZReGZCRWFOSWtIT29MOE1NSDJqY3FDYWFjX29QaDcyaHhYMjN6MTh3LWUySFlMLW5ac1kxakFkQk1zR3hiM2hJM1lNcUtRd0pYNHZ1Wg?oc=5",
+      "published": "Tue, 24 Nov 2026 14:38:00 GMT",
+      "snippet": "Advanced DNA technology identifies human remains found in Tallahassee, ‘ending a 24-year mystery’ &nbsp;&nbsp; WCTV",
+      "source": "WCTV",
+      "category": "technology"
+    },
+    {
+      "title": "Micron Technology vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTVJQkJ1LUtoRUtNVzF4UHEtR09mcnNhcXg1QVdZVWNuaXdwQWViSjdZQ0ZIdmJWcW9GNkZNX1p1NGhvaUNpQnBHS1BVcHAzbWNLVGxWWDBwd0F6enZsM24wSUlVUmhiWFlLakNhRmtSODZGUW5sZXJQSnd1OUVYWnFzMVUzMEpQOUlRWEFoOThlNXBqUmZRb1F5WFUtRWp4R1BscmR4SQ?oc=5",
+      "published": "Sun, 22 Nov 2026 19:00:08 GMT",
+      "snippet": "Micron Technology vs. Sandisk: Which Technology Stock Is a Better Buy for 2027? &nbsp;&nbsp; Yahoo Finance",
+      "source": "Yahoo Finance",
+      "category": "technology"
+    },
+    {
+      "title": "Why Did Micron Technology Stock Fall?",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTDBMd2dtOUtlRTEtS0xHTjNZYnhuMHNWT1A4MHc2YjZpU29tbzM2bU00eHNZeDVJTG02MzB0MFZPZ0FMQXBQNmpRQWJYN2ltOEliNUFQdWwzMFpOUTQwc0xrclhjME1FSkxxbVFUQnVDcDNXYld2ZEoyd09kYVBxZHVIaWphQTN4end4SHVUQ3N2VC01SklvNks3enU1UQ?oc=5",
+      "published": "Mon, 23 Nov 2026 07:39:51 GMT",
+      "snippet": "Why Did Micron Technology Stock Fall? &nbsp;&nbsp; Trefis",
+      "source": "Trefis",
+      "category": "technology"
+    },
+    {
+      "title": "Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027?",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMUZ2bGg4YlRrTnh5bHZZVUQwYTVPRXVXdWZHeVNydDRxOXN6SWgwbk00alNPNC1mZzZkelVZX0txczd4WjdnLWxTa3dLSkhBUnhuWHdURmdVd0ZNQ2gtOGxNYzF3SEhFUFhQOWItdzF2NnpxN3hmZ0RLblc5ek9OMjZCVDl2M1F5Vjl3ZmllMDczSm9MbFpDOUZvUmZBdUdmelp2QW8wcjNsQUdoa2ZVQjAxZFN6cU9ZY0dPYXk2NVVfQ0R5dlE?oc=5",
+      "published": "Tue, 24 Nov 2026 19:30:02 GMT",
+      "snippet": "Applied Materials vs. Intel: Which Technology Stock Is a Better Buy for 2027? &nbsp;&nbsp; The Motley Fool",
+      "source": "The Motley Fool",
+      "category": "technology"
+    },
+    {
+      "title": "New imaging technology reveals previously unseen immune cell patterns in tissue",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOVZDRS01YXNORUJRbmNTS2JoWU82bWc3d0NaWUxGSEZoQl94anNEZkRyOHRYQkZzTGp3YktLQ25seVpyY1B2ZlFFQVBGNDlJQnpGTlRTcXNnRkNNYWJhLW1ZYjA3RmFuX0xJeFdZRVZCR2I3am95NnZVNXM5dUp4dFk5RUNSdnVLdXRuT3B4aURZUQ?oc=5",
+      "published": "Sun, 22 Nov 2026 14:00:04 GMT",
+      "snippet": "New imaging technology reveals previously unseen immune cell patterns in tissue &nbsp;&nbsp; Medical Xpress",
+      "source": "Medical Xpress",
+      "category": "technology"
+    },
+    {
+      "title": "‘Life or death’: New technology to help emergency responders avoid train delays",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQVJheG9oQmVIcFhRZDMtMTlrc09WcnZwUHU5TFJidXN2RFhTRDJrQnhpODFRTnozdExDb3dSdnZaNkFGYy03cWNXbk0xUE5wZzFwbkVJdXd2Vkt3SG95TnJCM1MyWDlZMUQzWU51a21YQzhkRVVnckhaRDYzTTY3OVZSU2NfYlkyZVVOSHJrc3d2RnM4aGREMEhjeTd1UHYweV9vMi1WZDdHZ9IBvgFBVV95cUxNSGREaHQxbWRTSUgzVzE1ZzgyVnJ2MjRkTlktMFJGY2V3aUd0ZldPekxLQjNuZTExd3ZybUo1cG9uR2hKM3FVcDRHUkVPb3gwNDNSaFhBS0xjTDU4eHBCYjFzNVgxajdFamFLa3BNc2k3UkVLM1d4dV85NlFjVTdiamNtYkFYN2tHdXJBSzNlc0xTd1cwempuZl9icFNhWDFfVGk0WmtrbjVRTmJUak1XclFBcFc3eTZBTklhS09B?oc=5",
+      "published": "Tue, 24 Nov 2026 03:57:00 GMT",
+      "snippet": "‘Life or death’: New technology to help emergency responders avoid train delays &nbsp;&nbsp; KCRG",
+      "source": "KCRG",
+      "category": "technology"
+    },
+    {
+      "title": "Small Business Spree Bingo at Pittador Brews!",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYm5VYS1qZHo3b19UUXZpdU96U1lzODdjcFhDQTUyWTdYbnMxMl9xWFdSTEM5N1hEclNQbVU3bWhWYjYwRjFaX01xdHN0Sk9HTU5tNlRrMDYyazFOdVpsMEhrU2pCTF9yNk1TR2Q1M2JXR0tVb0JGdTBPN3RhSktsenRxZFQtYzduUHVzV2NnYXZzOURpOUFDQw?oc=5",
+      "published": "Tue, 24 Nov 2026 19:20:00 GMT",
+      "snippet": "Small Business Spree Bingo at Pittador Brews! &nbsp;&nbsp; CBS News",
+      "source": "CBS News",
+      "category": "business"
+    },
+    {
+      "title": "CNBC Changemakers 2024-2026: Women Transforming Business",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKdGNROW11RVdOUjFNb09nMnlEdDhjZFk4T1hPaEFkaUNlMnhOdnNvUmhjbzNlN0Z2TnYxYTlISm5hWFl1VVZhOHNkRkZ5UEVmQ1MwVm9ocUcyUGhjaUpOY3lMaFFyUU1xS3doVk9HbkbSAXZBVV95cUxOQXZuVld3aDV4MTUzZDN0czB3dkhoNENOdnR4VzIyeUdES1BsVC1zZUtHOWpIMnNHMG5Pc0pEQnZuVU5OUGtmeWozT0dDeUdlQUVuT3hfczVDT0lRTHRzci01ckM2c2xhSVlQeWZHLVlpek16ZGxn?oc=5",
+      "published": "Tue, 24 Nov 2026 19:16:52 GMT",
+      "snippet": "CNBC Changemakers 2024-2026: Women Transforming Business &nbsp;&nbsp; CNBC",
+      "source": "CNBC",
+      "category": "business"
+    },
+    {
+      "title": "I'm a competitive swimmer who follows a high-protein diet. Here are 7 items I always buy at Costco.",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSTVHbUktblZOM0M1RXVKVkZzTXhqaHlyb0twcVcwaDZzS1hzcmpfSTJDV0t6aHlNYVRQUEdHN3MyX0gtMjZBSVp4bVoydkVuRGhYenFhQlFqaTZRRmJIQmRDd1lUQjVmbnU1SGVIUjhRN1VyYWhiRGR4TnVSVzIzaHdydmZEMFdCS0RrdS1qN1g?oc=5",
+      "published": "Tue, 24 Nov 2026 18:54:00 GMT",
+      "snippet": "I'm a competitive swimmer who follows a high-protein diet. Here are 7 items I always buy at Costco. &nbsp;&nbsp; Business Insider",
+      "source": "Business Insider",
+      "category": "business"
+    },
+    {
+      "title": "The Frantic White House Push to Get Jensen Huang Back",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
+      "published": "Tue, 24 Nov 2026 02:00:00 GMT",
+      "snippet": "The Frantic White House Push to Get Jensen Huang Back &nbsp;&nbsp; WSJ",
+      "source": "WSJ",
+      "category": "business"
+    },
+    {
+      "title": "Medtronic misses quarterly revenue estimates after diabetes business spinoff",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQTdJMTVmekw4SkV5cXlGbzZkblkzRXZ0Z1lQTEtlVXp1elFnRFJlT25Na1B5a295SHhXV1F5cE50dkdxS3NjWkVFc3VwdXFJSXh3XzNmWGZwUnBWaWVfV3phVGFCNEF0ZUNnbmFIcWNWWVZoR2tSWE1yZWt4U3hEWHBoeTdlMjM4WXJnbjk1TnR2NEQ4bFpUbnhyaTJLR2ROQmJhY0xxbG4tQU1lcVVTdU5XeFF2N00wRy1qWElvRkZNS2NHWnRkNXcxcGtwWkZNSlV3?oc=5",
+      "published": "Tue, 24 Nov 2026 14:35:57 GMT",
+      "snippet": "Medtronic misses quarterly revenue estimates after diabetes business spinoff &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "category": "business"
+    },
+    {
+      "title": "Trump’s Nvidia intervention rewrites the rules of American business",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEQ0TzJnb3dObHlVcTJCUXd0RmRPbXAyaUJlbHc4VjZpZlBYZFo1TkVMZWVKOWNFaEZ3X2EzeURMY2Jjd2dkaDQ0WnNxWjVKcXhGcWRhUnB0TnVzMmJsUkFwR3FITWwzQUViREczNzU4U1UtR3hSM0VmcGhGaFJpVUpLbGJRX1Fsejc1QzJvSVNMWlJ0b195OE5WNWVDY0ZtZFBQa1dNQlNEblI1dnU1bVlRSQ?oc=5",
+      "published": "Tue, 24 Nov 2026 18:00:00 GMT",
+      "snippet": "Trump’s Nvidia intervention rewrites the rules of American business &nbsp;&nbsp; The Washington Post",
+      "source": "The Washington Post",
+      "category": "business"
+    },
+    {
+      "title": "Amazon warns NYC of $5 fees due to mayor’s delivery bill; Mamdani cries ‘greed’",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGo4NjBlYXFUZm5KazZjazJJUVhQNGxMVlMtaUd2QXRnQU5EZC1wT1l5b2ozT1VTak5IM0J4MTZOR1k3dk1PV0ZGNzBGT1ZlNWo5R29wYUpLdTIzbmhvMXRUOXI3TWhyRkFmazlmXzVRSFh6YnNlUlN1R3NaNE5tMnFXREt1bEJLTl9KZi1ibDkyZUtROE0wekx0MVpWYmtqOWROZG53dFfSAa4BQVVfeXFMT3dDdmF0OHJyV1pTYkNhcTNLNk1kd1RnVGlSMzQwU2JNV2daenRiZjBGOFZTNFhoUjR0UnFUVVBPNXF4VG95cEFBTGZxNXpJODliS0l0NUstelFQSUlQWXhZX2NlTEJlcVI3WU9CeVJKMlpYSUxQd1doVzRrMEQyU1ZQWVR1WEhWLXpiRVBUSHBMT09QZm1venNMWUQ0M2toOW1jWHd3R1pwS0lRNGp3?oc=5",
+      "published": "Mon, 23 Nov 2026 13:13:00 GMT",
+      "snippet": "Amazon warns NYC of $5 fees due to mayor’s delivery bill; Mamdani cries ‘greed’ &nbsp;&nbsp; Fox Business",
+      "source": "Fox Business",
+      "category": "business"
+    },
+    {
+      "title": "5 economic trends to be thankful for",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEVHNG9sdVBKV1FwcjhUN3JoT1RxXzBIdkNsT0hoV080emFNajhNcFp1Q0pvU1hUYUF5WmtwMkdQc2ZPQm1PS2N6Smlhclp5T0xyVkhTc1ItNHNMWWJfS1dYa0FMRlJQd0pLU0x2SjhBX212WW9JdnNUZW9MQUNkUVdxSzBOM1hjSGpvNg?oc=5",
+      "published": "Tue, 24 Nov 2026 17:00:11 GMT",
+      "snippet": "5 economic trends to be thankful for &nbsp;&nbsp; Axios",
+      "source": "Axios",
+      "category": "business"
+    },
+    {
+      "title": "'By Definition He Ought To Be Gone': Business Expert Decries Reinstatement Of Jensen Huang At Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWZmVThnNDNLN2FudE02U1lPUTdnNlI0QkVGLWIzQzBMUVZ5Yk9GR0ZhcklneC1UbGNaVmw2ZmM0OV80QWFLb0diNmtFM2hSZkpYXzlDSGhESV9uNzNxQUdGNE5wV3R3dDV2d1NqZGNhYlhfa0c2YUNwR05pMm9mQnNXVTBWV0VISmk1LXNkdlZQMUFnSmpPNjlZTmc5djhkTEIyUUx3R2tOTzRHTF9PbzBuVmMwelJVdFdjVVlBa1RZa1Jvd1phSEpMazNkN1ExTHhOVzJFQ1d0ZTN2Q2F1aA?oc=5",
+      "published": "Tue, 24 Nov 2026 18:27:55 GMT",
+      "snippet": "'By Definition He Ought To Be Gone': Business Expert Decries Reinstatement Of Jensen Huang At Nvidia &nbsp;&nbsp; Forbes",
+      "source": "Forbes",
+      "category": "business"
+    },
+    {
+      "title": "Nvidia’s value jumped by $950bn as shares close at $165.05 after surprise return of CEO Jensen Huang – as it happened",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSnMzd21tdFpFM2Y5cnFRa0ZkOWkxcl9BajM2MENkcEF4Snk0ZXVnLXZWNHpPRkJYbzV4aW9aSnc1dXBCcXNaekhlZUlwUXNXWXJxX3hEY3lDcTZWRGFKTUlXT3RndXRoMUg1X2pQTEJxdnhnSUFlOHQzRUlLQmpXQmtKLVA0M1hfV3lYNVgzZVJYXy0zaXN4aWlhU0xtZF9Rcy1VbWhqRV9TMHJhc2lkaHh6am9QdVc5WUYyWG5JdllCOTMyOHdtMHlEMW95Um0wMEY5V0VnR3hBcWpyRGhSLUFhYXRKMTd0V1cwVFE1N1czQjF5SDNLYnlB?oc=5",
+      "published": "Mon, 23 Nov 2026 07:10:00 GMT",
+      "snippet": "Nvidia’s value jumped by $950bn as shares close at $165.05 after surprise return of CEO Jensen Huang – as it happened &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian",
+      "category": "business"
+    },
+    {
+      "title": "I'm 23, and people pay me $75 an hour to scan their stuff. My unusual business is booked through January.",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWUJpbnI1SW9nVUd1NVNSa0IxOTl5Q0ltVG80VWxiQ0lTcG5hYUZIaHp3Qk1jRERYMGltUGxNaDY1bG5rbjNsMXBkd3pnSlFtNmFHV2lZcllfUFNkSkg1QU9wcGJZbFN1UmlsdVg3LUFNcjZnOFlIZHM4STQxVG5EMm90Si1KOGFXd05zMzFZX2xmNWRZQVBzVQ?oc=5",
+      "published": "Tue, 24 Nov 2026 10:05:00 GMT",
+      "snippet": "I'm 23, and people pay me $75 an hour to scan their stuff. My unusual business is booked through January. &nbsp;&nbsp; Business Insider",
+      "source": "Business Insider",
+      "category": "business"
+    },
+    {
+      "title": "NBAA Applauds Business Aviation Priorities in Senate THUD Appropriations Bill - NBAA",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWEhDN2JLRjBuWmY1VDAtdzBCYXk4U01zVHNnNTNhNHNRVmJ5U1hIVTBsZzNrbkhscUFGcmlIYVRrYzFtNDU5V0t3SEQ1MXB5QlZ6bjZJYXhTYjdHeEwwSnpuTEdnN2wtYmd2dDhJMmdJa2xpQWxoZVJMSzJOWVMxd0UtNTBBNEF4OE0tZURXdldmZUNzT0RjMV9KcFZKT29lQ2w1d1pXWXZJa25Zdm9LaVRxbFZKZw?oc=5",
+      "published": "Tue, 24 Nov 2026 15:58:43 GMT",
+      "snippet": "NBAA Applauds Business Aviation Priorities in Senate THUD Appropriations Bill &nbsp;&nbsp; NBAA - National Business Aviation Association",
+      "source": "National Business Aviation Association",
+      "category": "business"
+    },
+    {
+      "title": "Digital Health Providers Face Overlapping Federal and State Rules",
+      "link": "https://www.pymnts.com/healthcare/2026/digital-health-providers-face-overlapping-federal-state-rules/",
+      "published": "Tue, 24 Nov 2026 10:21:00 GMT",
+      "snippet": "A digital health tool can bring a company under multiple sets of rules at once. The Food and Drug Administration may oversee software used to diagnose or ...",
+      "source": "pymnts.com",
+      "category": "health"
+    },
+    {
+      "title": "A Dietitian Shares The 3 Best Yogurts for Heart Health",
+      "link": "https://www.health.com/the-best-yogurts-for-heart-health-12268375",
+      "published": "Tue, 24 Nov 2026 09:03:00 GMT",
+      "snippet": "Not all yogurt supports heart health—here’s what to look for at the grocery store to make sure you’re making the most nutritious choice.",
+      "source": "health.com",
+      "category": "health"
+    },
     {
       "title": "Health Insurance Facts And Statistics",
       "link": "https://www.forbes.com/advisor/health-insurance/health-insurance-statistics-and-facts/",
@@ -36,43 +341,11 @@
       "category": "health"
     },
     {
-      "title": "Catastrophic Health Insurance: What Is It And How Does It Work?",
-      "link": "https://www.forbes.com/advisor/health-insurance/catastrophic-health-insurance/",
-      "published": "Mon, 02 Nov 2026 20:08:00 GMT",
-      "snippet": "Les Masterson is a deputy editor and insurance analyst at Forbes Advisor. He has been a journalist, reporter, editor and content creator for more than 25 years. He has covered insurance for a decade, ...",
-      "source": "forbes.com",
-      "category": "health"
-    },
-    {
-      "title": "How Public Health Took Part in Its Own Downfall",
-      "link": "https://www.theatlantic.com/health/archive/2021/10/how-public-health-took-part-its-own-downfall/620457/",
-      "published": "Sat, 23 Oct 2021 05:00:00 GMT",
-      "snippet": "There was a time, at the start of the 20th century, when the field of public health was stronger and more ambitious. A mixed group of physicians, scientists, industrialists, and social activists all ...",
-      "source": "theatlantic.com",
-      "category": "health"
-    },
-    {
-      "title": "Examples of Jobs You Can Pursue With a Degree in Health Science",
-      "link": "https://www.snhu.edu/about-us/newsroom/health/jobs-with-a-degree-in-health-science",
-      "published": "Wed, 01 Jan 2025 16:00:00 GMT",
-      "snippet": "When reviewing job growth and salary information, it’s important to remember that actual numbers can vary due to many different factors—like years of experience in the role, industry of employment, ...",
-      "source": "snhu.edu",
-      "category": "health"
-    },
-    {
-      "title": "Why is Mental Health Awareness Important?",
-      "link": "https://www.snhu.edu/about-us/newsroom/health/why-is-mental-health-awareness-important",
-      "published": "Tue, 26 May 2026 16:59:00 GMT",
-      "snippet": "You might take your mental health for granted when things are going well. But being aware of symptoms and treatment options can prepare you to face any unexpected challenges and support those around ...",
-      "source": "snhu.edu",
-      "category": "health"
-    },
-    {
-      "title": "Your Guide to Behavioral Health Therapies",
-      "link": "https://www.healthline.com/health/mental-health/what-is-behavioral-health",
-      "published": "Wed, 12 Jul 2023 00:13:00 GMT",
-      "snippet": "Behavioral health practices focus on the ways that your thoughts and emotions influence your behavior. “Behavioral health” is a term for a wide-reaching field that looks at mental health, lifestyle, ...",
-      "source": "healthline.com",
+      "title": "Health Insurance",
+      "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/health-insurance/",
+      "published": "Tue, 17 Nov 2026 16:00:00 GMT",
+      "snippet": "UnitedHealth sues US government over lowered Medicare Advantage star ratings UnitedHealth Group sued the US government over its Medicare Advantage star ratings for 2027, saying the ‌ratings threatened ...",
+      "source": "reuters.com",
       "category": "health"
     },
     {
@@ -84,12 +357,116 @@
       "category": "health"
     },
     {
-      "title": "Health disparities among the many unique challenges for people in rural America",
-      "link": "https://newsroom.heart.org/news/health-disparities-among-the-many-unique-challenges-for-people-in-rural-america",
-      "published": "Mon, 06 Nov 2023 16:01:00 GMT",
-      "snippet": "The American Heart Association is celebrating the promise of healthier rural living in recognition of National Rural Health Day Nov. 16 DALLAS, Nov. 7, 2023 — Where you live should not determine how ...",
-      "source": "newsroom.heart.org",
+      "title": "Your Guide to Behavioral Health Therapies",
+      "link": "https://www.healthline.com/health/mental-health/what-is-behavioral-health",
+      "published": "Wed, 12 Jul 2023 00:13:00 GMT",
+      "snippet": "Behavioral health practices focus on the ways that your thoughts and emotions influence your behavior. “Behavioral health” is a term for a wide-reaching field that looks at mental health, lifestyle, ...",
+      "source": "healthline.com",
       "category": "health"
+    },
+    {
+      "title": "How Public Health Took Part in Its Own Downfall",
+      "link": "https://www.theatlantic.com/health/archive/2021/10/how-public-health-took-part-its-own-downfall/620457/",
+      "published": "Sat, 23 Oct 2021 05:00:00 GMT",
+      "snippet": "There was a time, at the start of the 20th century, when the field of public health was stronger and more ambitious. A mixed group of physicians, scientists, industrialists, and social activists all ...",
+      "source": "theatlantic.com",
+      "category": "health"
+    },
+    {
+      "title": "A Chinese research entity FOIA’d my scientific work. I had to give it to them",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXNrbE92d05HWE9lbmpNc1hzU29KWmhHRG52ckFFUEVzRWlfTTBVLWhXV3JuTk1iSURRRmtGRE45MjhFM1NCbmNWMXREaHF1dUF1X0hkN3NicHRNTVpRem10ZFdYMlE3cERmR21wMVNIcjN6U28yNU5SdGFXSFQ1SXh4Zi1ETzJUemc?oc=5",
+      "published": "Mon, 23 Nov 2026 09:40:12 GMT",
+      "snippet": "A Chinese research entity FOIA’d my scientific work. I had to give it to them &nbsp;&nbsp; STAT",
+      "source": "STAT",
+      "category": "science"
+    },
+    {
+      "title": "AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up?",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEo3b0F6RllSTjhpb0U1djFuOXo1VDFzU3BQRXRGNU1sdTJMMERZWGtSSFdRVE8xTXF1V3llaXAzMXlUUTd4WDkzSm9VRnFHc21HVkFWSXpNZFh2SW84cGhwdGZwSGQ4WG1FZXBvdGpZR2tnTWlKd1JNRmJUYkZxZmRJQWR2dkJuSEVmcTFKUG9TdDAyY01NcmdjS0l5N2tmYkJrbjNOdWM1Wmc?oc=5",
+      "published": "Mon, 23 Nov 2026 15:02:06 GMT",
+      "snippet": "AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up? &nbsp;&nbsp; National Academies of Sciences, Engineering, and Medicine",
+      "source": "National Academies of Sciences, Engineering, and Medicine",
+      "category": "science"
+    },
+    {
+      "title": "Still single? Science says this surprising reason might be why you’re not dating more",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR2hfVHI2RnhfVTI2VS1zZDFVNUVQdXdvUGRNTFRSeUJkcWIyb2tnQjR2NXdMZXhPZEgyZWpLU1A1TkhjX3FKNFNQZWZ3ZEhObWdLdl95SHA2Qmo5RHNnLU82UHlpbHhrU0R2Y2dURFBCSWFhMDZzTVYxVlBUTGlTY0QzVmZuUFFVTUtMTEdLYm80UVU2Wng4?oc=5",
+      "published": "Tue, 24 Nov 2026 19:28:09 GMT",
+      "snippet": "Still single? Science says this surprising reason might be why you’re not dating more &nbsp;&nbsp; Yahoo",
+      "source": "Yahoo",
+      "category": "science"
+    },
+    {
+      "title": "New Johns Hopkins research awards keep bold science moving forward",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXFQT0tvRUxYSE5GcGtVOGFaS3VXd196WnJReXhCMjhHMTlEbzBVLTBBT2JnV0tSc1hPbTZUeGgzaFVwOWJQUE81bmk3Mm1NeW52eHctTHdKamdKeHVGSFpkQTlwSGJ2MlZ2NnJxSEtMRzBMYkRFQk16SkMyOFRvdDFNODBGRU51bWpv?oc=5",
+      "published": "Tue, 24 Nov 2026 19:34:00 GMT",
+      "snippet": "New Johns Hopkins research awards keep bold science moving forward &nbsp;&nbsp; Johns Hopkins University",
+      "source": "Johns Hopkins University",
+      "category": "science"
+    },
+    {
+      "title": "Uranus reaches opposition: How to see the solar system's strangest planet at its best this week",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDZpck43LUx0dGk0cmN0bnFNQUpIUWk1M1hVdHJzZGl6NU1Wdk1mQXR1aGNTOEdfMUgwZ2RaQllYMFJWeWVQOFN5bUxGVmxETVU1QWJtS0FscVZoR1A4NzZuTnZIWnVJbjUxTlg3ZTIyelM1T3J4Z18zMEkxS3A3eHFoWDJ6OHZNbTZuVXZMWVRNNzlpbzFkTlN2NkQtcGxpRWtWcGFkZktiLS1QOGxkZnZDS0x2ckkySzRwMXNld0hJWExDS0FKcVhESkJrUjA?oc=5",
+      "published": "Tue, 24 Nov 2026 18:12:55 GMT",
+      "snippet": "Uranus reaches opposition: How to see the solar system's strangest planet at its best this week &nbsp;&nbsp; Live Science",
+      "source": "Live Science",
+      "category": "science"
+    },
+    {
+      "title": "Eruption Extends Iwo Jima’s Beach",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkVZZXhITzA3QXJTa0VINUFkc0NCeERjTlk1LU5icTV6U25vcGZWcWlER2JtN2RqaGtqTnJGVm5Ld1lCaVBCVlgza1JRUXFfM3NDaDlsOXMxdGlOWnI0RzZWMFhwcHJOU2FRLXg1dDd4WmMxekc0N3VtZ0R2a2ppRFg1b29YS1lXSGc?oc=5",
+      "published": "Tue, 24 Nov 2026 05:01:00 GMT",
+      "snippet": "Eruption Extends Iwo Jima’s Beach &nbsp;&nbsp; NASA Science (.gov)",
+      "source": "NASA Science (.gov)",
+      "category": "science"
+    },
+    {
+      "title": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record - ABC News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkNfSXVCb3l2YkVuTjl5RExoRmNVbXBiOTVhLWtVYks5TVhEMzVMVU5YOTNqeERUYUNyMG5UVjkzVVFId0hIVFduVUNJbFNMZHBhcVRVSHUya1Z1RUN2NkJaLUIxanlRLWZUNXQ0WHgwRUotak5BaG51NEItU0VUcnR0NE1xTWtCTmtqWExvM1BfRXNtZlhJX0FUVzNvLU1OTlM3Z3JsWjZPVVXSAbABQVVfeXFMT29RWVBob09uVUo2T0NrWlVEVldMWVlrazJVOTNRZ2tCQmcydXI2TktFVVRuY2NRR0E3SHNma18yV1pVanFWR0N6Y0xqS2RSdHphNlAwUlFyY2hmcGIzTHZoN1NVOXZodnBuWGxNWl9icUNZdmo1ZkY5MFNnTW5YWDRwUXoxUUtaaEUtTTRSeW91cnE0ZzVzNzZPZjRvdUJkS3BZbl9EMy02Zi1va1dENmQ?oc=5",
+      "published": "Tue, 24 Nov 2026 08:23:14 GMT",
+      "snippet": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
+      "source": "Breaking News, Latest News and Videos",
+      "category": "science"
+    },
+    {
+      "title": "Is trust in science falling, or does it just feel that way?",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3LUJ3VTdZd0wwSWdNTmgtRU1vS3JBVVVVdFc4NmtJTkdGTnRwSE1COVVGS3lJQm9Gd001czlyNnFWcDZ5N3FwYWpPSEw2a1BkeHlnTm5sdkJGNXZFZndV?oc=5",
+      "published": "Mon, 23 Nov 2026 17:26:30 GMT",
+      "snippet": "Is trust in science falling, or does it just feel that way? &nbsp;&nbsp; Nature",
+      "source": "Nature",
+      "category": "science"
+    },
+    {
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zMmZKakpsNVBqbHl6V3AxV0VINi1nQ3N5QVBwVDBpVXZyMHh0YVRBbFlGR1dGTDNmZlNLMzdOR3ZaNGxGcENnZ0NNenVxLWVqN2g2UURuZVB5Q2lvcnIydUxBN01Ga0tkZVY3VjJjYw?oc=5",
+      "published": "Mon, 23 Nov 2026 23:15:39 GMT",
+      "snippet": "Earth's core may be leaking a 4.5-billion-year-old secret &nbsp;&nbsp; ScienceDaily",
+      "source": "ScienceDaily",
+      "category": "science"
+    },
+    {
+      "title": "Red panda Tai among 3 animal deaths at Greensboro Science Center; ‘Each will be deeply missed’",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWlExZFNQeHBqdHlFb19XTndvZ0hCWGwzaDdpQWIwdWw0NUEtZzhnenZNdEw3N1dhcjNILWV2NVFNYnRRVUlST3BxRG1YaEg5SmNnU1BvSm1JNlZkbXRGYVBlVE0td1d6U3B1TG9ORzhzSFJsVUpnZm52QTRieHBGdUE2Sy12TmNvT0FzVlZGZmZvSTRXNXhkUnlJWWZhamU5b1NrVkJLVFg4MGZXcllhWFZ0UjNjcTAxQURmeGtveHNQVVRSNjJhVHhCVk5pbktDelJmN2FZSVI3Z9IB3wFBVV95cUxNQkxKaVNYRnFiZUJaT2s2U2ZVUVluZ3E2ZGRjenFQanotM1lRTFpIdnV6dHB4UkRLXzBHUElmdVVwVnllcVEzX2gxNEJxaVZlclJ6TXo0Tml0TUUyOGNacXNXN1ZDQUdheHcwUU1DX0NwaHp0TU40N0JNc0xyQlhSLVhGemQ1TGVCdGdpa1FrWDEyajc1dUJPZ1ZYWHdRTHdkYi1wMHBXcEZqMnBZanV0UjkxaEkzLTE1b01TVk1fdUZSWno0TWxCYWl2LVFBWURyNy1YT0JBNjZ0c3Rka0Vn?oc=5",
+      "published": "Mon, 23 Nov 2026 21:25:17 GMT",
+      "snippet": "Red panda Tai among 3 animal deaths at Greensboro Science Center; ‘Each will be deeply missed’ &nbsp;&nbsp; FOX8 WGHP",
+      "source": "FOX8 WGHP",
+      "category": "science"
+    },
+    {
+      "title": "NASA Hubble’s New View of NGC 4394 Raises the Bar",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZFBDVUZWcFZkelpWaWc3dHhDVkRleFM3SmxDRXhpeTJSNDJncDFWRXBKODdaVEdiSEtnZkViX2lqMWxaYXUxWEx3RENYU3BCVUtnU0pUa0hCcEpERkt3RFhnU3ptQy1sZlJDTFJ1di05N01FQmtJMWEzRUltM0o3WDFpcHlCWlNUMWp5YXFFbHRhaVdw?oc=5",
+      "published": "Tue, 24 Nov 2026 13:58:28 GMT",
+      "snippet": "NASA Hubble’s New View of NGC 4394 Raises the Bar &nbsp;&nbsp; NASA Science (.gov)",
+      "source": "NASA Science (.gov)",
+      "category": "science"
+    },
+    {
+      "title": "NYC schools launched a reading overhaul. Brooklyn librarians are helping make sure it sticks.",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWZmRnlZNFRsc1U1bF9VTi1aQmJ5ZGh0Si1kc0x1ek9XLUpCVUlyYnBjMXRDUVhRcjdVVFFCMGFvSEhxTkVSZXh1S0JpZ2lqMFZGZVU2MURFVjNiR091aXIzODgyRlVKTndUWHk0VlkxSzlzMUcwQmlVdk5lWmZRanFNS2VKbEpJWGJtaEZVRlQ3OXUxaENiOVRHSDVfNHg1dl9tNGVaRlVuUUNEdnFB?oc=5",
+      "published": "Tue, 24 Nov 2026 17:45:00 GMT",
+      "snippet": "NYC schools launched a reading overhaul. Brooklyn librarians are helping make sure it sticks. &nbsp;&nbsp; Chalkbeat",
+      "source": "Chalkbeat",
+      "category": "science"
     }
   ]
 }
