@@ -206,7 +206,16 @@ async function main() {
   const info = siteActions.find((a) => a.name === 'get_snapshot_info');
   const infoResult = await info.handler({});
   check('get_snapshot_info reports the snapshot', infoResult.ok && infoResult.total_items === snapshot.items.length);
-  const searchResult = await search.handler({ query: 'climate talks', limit: 5 });
+  // Derive the query from the snapshot itself: the headlines change every
+  // refresh, so a fixed keyword can silently stop matching (the old
+  // 'climate talks' query failed on 25 Nov 2026 when no headline contained
+  // those words). A word from the first headline always matches.
+  const STOPWORDS = new Set(['with', 'were', 'have', 'this', 'that', 'these', 'those', 'from', 'after', 'before', 'over', 'under', 'about', 'into', 'than']);
+  const queryWord = (snapshot.items[0]?.title || '')
+    .toLowerCase()
+    .split(/[^a-z0-9]+/)
+    .find((w) => w.length > 3 && !STOPWORDS.has(w)) || snapshot.items[0]?.category || 'news';
+  const searchResult = await search.handler({ query: queryWord, limit: 5 });
   check('search_news_snapshot returns matching items', searchResult.ok && searchResult.returned > 0 && searchResult.results[0].link);
   const emptyResult = await search.handler({ query: 'zzzqqqxkcd' });
   check('search with no match returns zero items', emptyResult.ok && emptyResult.returned === 0);

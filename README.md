@@ -60,8 +60,10 @@ It is rebuilt every 6 hours by
 from public news RSS feeds — Bing News RSS first (real publisher URLs),
 Google News RSS as fallback — by
 [`scripts/build-news-snapshot.mjs`](scripts/build-news-snapshot.mjs).
-The script only overwrites the snapshot when it collects at least one item,
-so a failed run keeps the previous snapshot.
+The script only overwrites the snapshot when the collection clears a
+quality bar (at least 30 items, 3 non-empty categories, 5 items published
+within 72 hours), so a degraded run — a feed outage, or stale evergreen
+results — keeps the previous good snapshot instead of replacing it.
 
 ## Run locally
 
