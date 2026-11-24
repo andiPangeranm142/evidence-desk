@@ -5,8 +5,12 @@
  * Bing News RSS is tried first for each category (its links resolve to real
  * publisher URLs); Google News RSS is the fallback (its links still open in
  * a browser, but are obfuscated). The script writes the snapshot only when
- * at least one item was collected, so a failed run never wipes the previous
- * snapshot.
+ * the collection clears a quality bar (see MIN_* below), so a degraded run
+ * never overwrites a good snapshot with a thin or stale one.
+ *
+ * Incident 24 Nov 2026: one scheduled run wrote only 10 stale health items
+ * (Google feed down, Bing returned evergreen articles); the old "at least
+ * one item" guard let it through. The quality bar below prevents that.
  *
  * No dependencies. Run: node scripts/build-news-snapshot.mjs [--out PATH]
  */
@@ -28,6 +32,13 @@ const CATEGORIES = [
 const MAX_PER_CATEGORY = 12;
 const FETCH_TIMEOUT_MS = 20000;
 const RETRY_BACKOFF_MS = [10000, 25000];
+// Quality bar for overwriting the live snapshot: a healthy run collects
+// ~50-60 items across all 5 categories, mostly from the last day. A run
+// below this bar is a degraded fetch, not real news — keep the old snapshot.
+const MIN_TOTAL_ITEMS = 30;
+const MIN_NONEMPTY_CATEGORIES = 3;
+const MIN_RECENT_ITEMS = 5; // published within RECENT_WINDOW_MS
+const RECENT_WINDOW_MS = 72 * 60 * 60 * 1000;
 
 const BROWSER_UA =
   'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36';
@@ -198,6 +209,20 @@ async function main() {
 
   if (items.length === 0) {
     console.error('[snapshot] No items collected from any category; keeping the previous snapshot.');
+    process.exit(1);
+  }
+
+  // Quality bar: refuse to overwrite a good snapshot with a degraded one.
+  const nonemptyCategories = Object.values(counts).filter((n) => n > 0).length;
+  const cutoff = Date.now() - RECENT_WINDOW_MS;
+  const recentItems = items.filter((it) => {
+    const t = Date.parse(it.published || '');
+    return Number.isFinite(t) && t >= cutoff;
+  }).length;
+  if (items.length < MIN_TOTAL_ITEMS || nonemptyCategories < MIN_NONEMPTY_CATEGORIES || recentItems < MIN_RECENT_ITEMS) {
+    console.error(
+      `[snapshot] Degraded collection (${items.length} items, ${nonemptyCategories}/5 categories, ${recentItems} recent); keeping the previous snapshot.`,
+    );
     process.exit(1);
   }
 
