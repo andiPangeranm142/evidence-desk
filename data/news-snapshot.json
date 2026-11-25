@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T01:46:54.688Z",
+  "generated_at": "2026-11-25T16:32:13.545Z",
   "sources": [
     "bing",
     "google"
@@ -7,88 +7,80 @@
   "categories": {
     "world": 12,
     "technology": 12,
-    "business": 11,
-    "health": 10,
+    "business": 12,
+    "health": 9,
     "science": 12
   },
   "items": [
     {
-      "title": "Pope Francis' diary reveals claims he saw the devil three times",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FZnFuN0ZUVkMzeE1uZEdJXzZYcFJQZmx2bWFvOGY0amhPUVNxM3R6eXhua2dncHlQUEJXdnJ4bmVGVk1va2drVmd2OUpjWUFFTlJMdDFCSmRiOGs?oc=5",
-      "published": "Tue, 24 Nov 2026 11:10:57 GMT",
-      "snippet": "Pope Francis' diary reveals claims he saw the devil three times &nbsp;&nbsp; BBC",
+      "title": "US announces new tariff proposals on EU, China, and other trade partners",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iZDRtNkV3UUxEaHZPNGtUa082dU5SdmF0dzV6TFUzRm5ybmdBMkdTVXN0cmVQZ2lnNERkZG5WU2hXVXRiczZTVy10a1pkSVdoSnhNNk1B?oc=5",
+      "published": "Wed, 25 Nov 2026 16:26:57 GMT",
+      "snippet": "US announces new tariff proposals on EU, China, and other trade partners &nbsp;&nbsp; BBC",
       "source": "BBC",
       "category": "world"
     },
     {
-      "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjBBNmluQUtFZGNIdTVyM3RqaFlvSWQxMGpaWnBEQlFGUjhJX3ZDc0J6MENrN294ZEZCVmVZbVBINVNpRndUaEdrRHhVYzdKUjVzN1ZtOWV1QXlwNW1ORlhDaXQ1MjNVYnBNU0s2Rk4welVsQmxWdGxNemJOR3gySEFhaWVaTWtsclBSYS13?oc=5",
-      "published": "Tue, 24 Nov 2026 18:08:00 GMT",
-      "snippet": "Armed men hold hostages at supermarket in top Colombian tourist destination &nbsp;&nbsp; The Guardian",
+      "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa0hQeUxVaC05WTRWLWwzZkE0RFdUUWFQbHBBTFRRbTBjZlhybW1sUzBxOGNSQ1RXZXlZX0VXY0lRUUV2NlhuTkZkT25td0ZnTTEwYjFZaGZPT3ZSSW5IZVF4cHJzSXpyY3E3eW5pbkVBVkF2SFM1ZDllM05VZ3J4OVVwTkJOaHhNbHJGemZUQXZyUjBqbDJvbnZUem5Na19uaUlERUcwTFNHaDc5UmlaMW5Oa1R4aFFOUV9UYkZlT04tZjdGSXdPZk9lRkkyaVJ2dTdLOTRlc1YxaFBpdTl0Qw?oc=5",
+      "published": "Wed, 25 Nov 2026 08:53:00 GMT",
+      "snippet": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live &nbsp;&nbsp; The Guardian",
       "source": "The Guardian",
       "category": "world"
     },
     {
-      "title": "Iranian Singer Receives 74 Lashes for Performing With No Hijab",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYjJQeUlvMi1GT0xmbzR0d3ZEYVpPNzF3UWV0SUo4ZG1BUVlKMDRJbUZCR3l1cnoyTEhjNm5lNGhLNE1Dd09faE13Nkt6dzlUU2MwTGxmYUVQeVZDQ2ZBanZGMG1ObExkZ245NHYyeUVwZDZBT1lzRzBSN0o0bHY3T3p0VE84M1JaLXJzYkNDWGVpMHJNekFIa3JDNzNCRnZjLVE?oc=5",
-      "published": "Tue, 24 Nov 2026 12:34:52 GMT",
-      "snippet": "Iranian Singer Receives 74 Lashes for Performing With No Hijab &nbsp;&nbsp; The New York Times",
+      "title": "Trump announces new tariffs, undeterred by midterms defeat",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcjZ1MUw5RG5fdk0tUjNTRFNIRzl5amR0VklFSzdTOUlUS2hxNWk5aV9xcm5VWmQtZGRkdXVKMWZ3Um5qZHluSFp4MGNIdHNETlZPck1RcmJmUC1oZHFtWFdYT29PbkdjUU1IbjQyWE9GRFJZdXFwTVFRMEtDcl81bXpDS3RHSHNka3VSbGlHNmNFV09uMTE1aExBRVkxUldZUmpwX3hYdGduS1BJcW1QRlY4ZjdyYkZyWTI0dVBB?oc=5",
+      "published": "Wed, 25 Nov 2026 14:30:58 GMT",
+      "snippet": "Trump announces new tariffs, undeterred by midterms defeat &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "category": "world"
+    },
+    {
+      "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDdOQkIyMWZBYUJGd19raENFUlNZRFhGZ0ctSzRyczJfWFloRVMtRXFlWkR4MVprWV9wS0txVDZfYmJYU2NZR0hhRGV3eTdZZlczSlFmR1VnQko4NGpKa3MzSG5VcENhdGw1cVJHMEdYaTQwVHkxV3I5eUhaUDd1ZHhkWW45elNfRk1XUEdGUTdLWWNqd2tv?oc=5",
+      "published": "Wed, 25 Nov 2026 10:04:07 GMT",
+      "snippet": "How an Iranian Ally Gained the Upper Hand in Yemen’s War &nbsp;&nbsp; The New York Times",
       "source": "The New York Times",
       "category": "world"
     },
     {
-      "title": "CIA hit by hack impacting unclassified information",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVnhXNXFWUjZuS1EtQ1V6T2RtSGtURkRkMmsxb0owQ20tVmlTNGdBT0g1Ri1CdkdHaDdCeFZmeUxDNjI0TlZxY1hzcUlhbllQRFN3dERyc0M0aHFNQUl4UHVvMC1MbktaWm04SEpJYkpBR0lPOWhiT3dBVFl3RFdiNlNWb3MwRE5OOVl5cGlsbTlRRDduY1FJOG9HbjhOWmVrZ3g1WXNfb1A3X3hnUkdMTGlxdV8zOGVCQ09qRzVqNG11U2FzYzJDc2pDU1FzOUlZY1NwV9IB2gFBVV95cUxPMWlyUHp6VXpyUHFJUHU0Ml9uX1BZUWZOdWhTZFJQX3pmcmYyT0tOTFJ1NVdjQVdxc2ZhZGZwTDc4SzdZSEN1eVk3T2ZjOHo4LWx5cXpjZ0R5aDFzYjhldjI0SVEwajJJVmRhMjd3NkF3Z2VpZEdWc251ZWk5VG1TaHhXTkFZaGRCRzREX1ZqMjhNMWlfbjVkOVlELWRDUFVWX3F6eF96NDRCcjBJR2JUelJEbDJ0ckRydTA3SGxPTzhkR1lTb0xiZVZkRUJEVy12SzF1WV9KRzFuQQ?oc=5",
-      "published": "Wed, 25 Nov 2026 00:00:00 GMT",
-      "snippet": "CIA hit by hack impacting unclassified information &nbsp;&nbsp; KOMU 8",
-      "source": "KOMU 8",
+      "title": "How Russia’s nuclear space weapon could end the world as we know it",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNenVjUUFKNWN2MmhnTlZNMVFwMWJFWDZqYUltX1UyRDhDNGsxSjVadWVYbWhyZEVaYmRhWW41Z2trakUwTG5YMmtGb25kQlRsTjZ1Unl3N2FlSVFMS21XS1BDMGpXb0tjenAyblkxUzcwRzdYYmJESTcxT1VpLVVERzFFQXZodXJjcGoyYzFUUm45Rm8yb3IxSGUza2F3VEhsRW1hNzNtOHU2Y0U?oc=5",
+      "published": "Wed, 25 Nov 2026 05:00:00 GMT",
+      "snippet": "How Russia’s nuclear space weapon could end the world as we know it &nbsp;&nbsp; The Telegraph",
+      "source": "The Telegraph",
       "category": "world"
     },
     {
-      "title": "Gisele Pelicot 'deeply shocked' after nude photos used to promote book",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc3N6ZWpqdWNXVklfLXNOazhOX2R3ZlRNWXRCTTVKeHZUY002bUtoY1Btb2FOZDFkd3JJM2J6UjAzbldUX3dGWXU2eW9PR1Z4QUJtMm1lSGpaVXJoaTdYUDVyZ2V2TGVBaHJIdnJmSVdKc0hiWGVKMHpwYUdIS3Jlb001Z0plYzVkZUhndU4teF9wSlZia2lxRjFHMDkwa1k5bFFUQ0w3UQ?oc=5",
-      "published": "Tue, 24 Nov 2026 03:00:56 GMT",
-      "snippet": "Gisele Pelicot 'deeply shocked' after nude photos used to promote book &nbsp;&nbsp; Sky News",
-      "source": "Sky News",
+      "title": "2 men charged with burglary after break-in at Prince William and Princess Kate’s country home",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd3ozVnJxdk1JcndwSURHb2ZsQTlnMzNYOWQ0WG1IQ21iUEc5TWR2aEhoeGR2NksxRDB2VjV3RjY0Z3Q3M3BZbjRlRWtKdkFCd1Q0cml2dHE4eldQUGVPMzgzOG5qR281NmtqNlptczVZSl9UcDhzRU93dkY1SVdhazctOFBTQXJJckRXYl80cko0OXlmOHB3SW5oa0xNLVpMWlRTaC1zSzRya3VNa3JQNEkwUHRvek4zMW1sbQ?oc=5",
+      "published": "Wed, 25 Nov 2026 13:35:58 GMT",
+      "snippet": "2 men charged with burglary after break-in at Prince William and Princess Kate’s country home &nbsp;&nbsp; NBC News",
+      "source": "NBC News",
       "category": "world"
     },
     {
-      "title": "Exiled Sheikh Hasina plans return to tense Bangladesh on Dec 16, defying arrest threat | World News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPUUdZWENpSEtzbS1tUHRjQ3BuMEhMMG95R05kVEl3Q1BaQWNUOVROaXJDclBUbFNyWm52X1ZUTWR2Um9tUlF5d0hRaWxVUzdwenBpYVhhS1dPS1RuX1p4RDExWmdRNXl1dEVJYkhOTGlvM00wNERzRTVCd2t3RFlDMFQtaUM2dkhlekFVUlhHZEN0Yk5VV0FnQXZ5WEl3UlRXMWxVY0JEbzVEUkxuaEFtMHZWZnY5anBvWEtWQWxCdHhMV09aS21QQm9WeWJoT3Z2dy1iRUpqYWw1Vm90MVhnTHJn0gHnAUFVX3lxTFBuSWVrWlFWdWhqSGpwQjNSVEZQLU02WWg1SW5pV0xjYW8tSGxkQVdzYnBPVExJTE0wUm9tYVF4ZVF2TXRaMWl0VFRNSklLTGF2bVE5RFdZTjZ2c3FTRk0xMmE2cWdnSWpkRW9aQTdrbHVGenVtNTNtRkViTjNQRkJvNVVYNGswR1g1c2NaeU1mdF84SzgyQjlkUHF4SGpWMEFLSk9pU3g2S3RMbTRWMG9DeWdYNUc2QXg4VkIybjEzWE5qMjNzSFVjejNickZ3NUh5TXpsRUhmYmJZdk5aV1FwSUw0aVFZZw?oc=5",
-      "published": "Tue, 24 Nov 2026 03:25:21 GMT",
-      "snippet": "Exiled Sheikh Hasina plans return to tense Bangladesh on Dec 16, defying arrest threat | World News &nbsp;&nbsp; Hindustan Times",
-      "source": "Hindustan Times",
-      "category": "world"
-    },
-    {
-      "title": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOUtWdVJPaUZZOXBmZ0VhUzJTaWNKQVNwUFhzMmVaRWY3MW9ITXVnbWpMd2h0cmdyTEtmaDloN2E1VmNQd056ZTMwSVFPazRtSWtLZ1NXa1NBMUkzQ3VwNjJUajFhZ3B3UXlGNnF3WWhNNUxHelhoZUkzWS1XZERMZ25lSDcxcHVYZHBUbmJlb0FHaGlNSFU1eXF3?oc=5",
-      "published": "Tue, 24 Nov 2026 02:30:00 GMT",
-      "snippet": "Germany taking seriously reports Russia may be planning to launch nuclear weapons into space &nbsp;&nbsp; The Guardian",
+      "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdjBBNmluQUtFZGNIdTVyM3RqaFlvSWQxMGpaWnBEQlFGUjhJX3ZDc0J6MENrN294ZEZCVmVZbVBINVNpRndUaEdrRHhVYzdKUjVzN1ZtOWV1QXlwNW1ORlhDaXQ1MjNVYnBNU0s2Rk4welVsQmxWdGxNemJOR3gySEFhaWVaTWtsclBSYS13?oc=5",
+      "published": "Tue, 24 Nov 2026 18:08:00 GMT",
+      "snippet": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city &nbsp;&nbsp; The Guardian",
       "source": "The Guardian",
       "category": "world"
     },
     {
-      "title": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbzFJSDBqTm9kX1Z1YmVyVzJCemRNN295bXViSTZYMG1saWNvcDRBX0duRUEtdUptT05LYVdUN28wdW5Hbzk2WU1wZVYyVEVTQV9lblo4S1k3djN3Uk1vNlBRM1M4bjBGV1JZVE14Q0FWTWcyR1FKOW9nQUdFSGNWclRoU1dsQW44bXRGMk4xYTFYQTFJYllVNXYxV2p2TGFWVURjLS1NVQ?oc=5",
-      "published": "Tue, 24 Nov 2026 21:15:38 GMT",
-      "snippet": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian",
+      "title": "All Hostages Held in Colombian Supermarket Freed, AFP Reports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONnZPb1BtLWw2OE5TVjRVUUhlYXE0Ri1XZ1hRcWJ1eFNxZ0NaWHoyQ1lnWmRQLWtUSkxNOW1keDZLTVVHNW5xcGtZc0M3NUZITW9SMVNJQWJ5ZWJwYVRaYnVRS0U3QUVYNzlZMmJ2T1lsSTNBYVl0N3NnamY3bm1ybms5cnlnVHNlVzVSS1NnUmtxRTRPWXBlWGExNFEyZGdxMnlLNkdXckpyUTh6bVZSQlVLTTY?oc=5",
+      "published": "Wed, 25 Nov 2026 07:47:00 GMT",
+      "snippet": "All Hostages Held in Colombian Supermarket Freed, AFP Reports &nbsp;&nbsp; U.S. News & World Report",
+      "source": "U.S. News & World Report",
       "category": "world"
     },
     {
-      "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM0Fta1BkcGNCQ3ZRMmRYZ055QmhtMjNuQW83d0hUbWJEOGo3SmloTmdENnZmdFQwS0ptVlRFWGFocS1BNGhSNm1xMGdPdEpSVnA1Z0FjY0YwTkVObnctcS01WXRleXlxZUJNRk1zYU9YNlZRcFZJNm1OcklnczhRbzBfc1ROeFJDSmxhMm9LOUNBeEtEd3p2NVlfamo?oc=5",
-      "published": "Tue, 24 Nov 2026 22:15:00 GMT",
-      "snippet": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian",
-      "category": "world"
-    },
-    {
-      "title": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ1htVDk2anJoMm9ITld4WndhUTNSMXAwVXA1X0c0SFIzajFNb0o2RzRNZjdWNEtfdkVKM1FxSDMyM0UtbllWNEdUbEtSZnNJX1V6N2ZCQmlrT3hKUG1CNzR5dlV0dDZXTEJ6U2Q4NURSNVpqQUVIMlkzWlQ2LU54dldEUVpxWTZQZTZOS1lXY2l3RXVXM1F5dkNFMWh4UjVrMEZqMFVUeS1zUTRQa3NBNE9KdnhnNG1tUzRrVW1kRG9pUlAxMEJvQjJoNnA4UQ?oc=5",
-      "published": "Tue, 24 Nov 2026 23:53:45 GMT",
-      "snippet": "Trump reportedly says he is open to pardoning Jensen Huang ahead of CEO’s planned Senate committee testimony – live &nbsp;&nbsp; The Guardian",
+      "title": "All hostages rescued after Colombian security forces storm supermarket, says president",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1otTXZHZkpuTkt1bjljUUNJU0VKTmJRcW9UVXNOaUwyQkhrY1hpZngzWkM0WUtzdjBzeXRLVVVPZl9JZnFlM2xpcC1KQTdXZEJ0Z0YtZnZnQzNFYTYxdU11TkstVTBVcVhDaHRxdE9nczBMS3RBVlk1LWc5TXZZZmdjNnhuNWJGV29BMUoxVmNmYV9QT1Z6MHVSVS1fbWZwLTI1cnl6eXVaV1dMVkU0dDVSYw?oc=5",
+      "published": "Wed, 25 Nov 2026 08:31:00 GMT",
+      "snippet": "All hostages rescued after Colombian security forces storm supermarket, says president &nbsp;&nbsp; The Guardian",
       "source": "The Guardian",
       "category": "world"
     },
@@ -101,11 +93,19 @@
       "category": "world"
     },
     {
-      "title": "3 Questions: Tackling energy challenges in a changing world",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUnRzOVE4UlFZZU13YXVFVi1nRG9HUENBcmN2bjJsZTI0ZjVCUGk3LXRkNVMzYzR4UGw2S1lsYTF3Mjd1U2FyTW9IWE1kZjRkLXM3NWxwWkpkTWFCX1Zhc2RYUXZxeVhiZXFCZVpZTVBGSGVjaWxVYm5kSThyLWYxTy0wWFljWUtWR255Sw?oc=5",
-      "published": "Tue, 24 Nov 2026 22:25:00 GMT",
-      "snippet": "3 Questions: Tackling energy challenges in a changing world &nbsp;&nbsp; MIT News",
-      "source": "MIT News",
+      "title": "US readies new tariffs as months-long trade probe nears end; China, EU, 14 economies on radar | World News",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOX2xmTFNsWS1rN2dFc1lVZnRrZkZzaFNiZkFXMnlrandLemxoWWd4Q1RoYkRMWXVQU3NKbzcyeEhXR1NUQTk0Y2lyRHRRSWtPcFJhcEZ0cTYxVjNPeW1jeEFPSS1sZEVUZ3Y4czVjOHJtQmJKNnNrWEc4V3pJQlNNSEEyeWh2cHpaN0U3aWZReWdBYWxHZ3dRdjFLanJLemxwV1RaVkQyNmVGNVQ1cVQ5ZzNOcVphaHQ5dnFnbXVpX3AtbHVBdGFXdUY5cFl5cVZlTXh6TmV6UnFpanU0SzZ1QV9fSDhZNkxV0gHuAUFVX3lxTE1sMXNvMEM1VnhKWlpXZGxWbXVRQTJQZF9wM253MjRBX3NXR1pXa3l1SndWWUg2NGNObWlYdnVCQzd4UWNPWExheXEwZjFFc01PckoyUk9IUWlNUDNfTWxpSDhsMlhpQ1JyYmlfNGdmWjQ2UWFaMC1qOVJPaDlONDRpUmROZWJndF94SFBmUkNONGlsaXlJQXl1YnpSWkNmbnFGakFRX3c4ZW5LNmFPbHFQSzFycjNFUk1nSWdYVVF4T3hOLXVvbHhpVHdvQ1Z4NW5wWmNPbzBDTnBCSlZiQTFKRHZKajQ5emZHUnhvR1E?oc=5",
+      "published": "Wed, 25 Nov 2026 00:58:51 GMT",
+      "snippet": "US readies new tariffs as months-long trade probe nears end; China, EU, 14 economies on radar | World News &nbsp;&nbsp; Hindustan Times",
+      "source": "Hindustan Times",
+      "category": "world"
+    },
+    {
+      "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zZU8wbUhnVkxIc1ZwTTdnM1BmNUFybWJTcDhCQ1BZZEU5Njhtek52cVdnN0hsRllhTlJqeVloeFBzbk9pWGItYW1uT2gwNVFsX3RrWHR1QlVUYUU?oc=5",
+      "published": "Wed, 25 Nov 2026 00:54:13 GMT",
+      "snippet": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated &nbsp;&nbsp; BBC",
+      "source": "BBC",
       "category": "world"
     },
     {
@@ -117,35 +117,67 @@
       "category": "technology"
     },
     {
-      "title": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3MzSVpVUmVHWUZvX0hLbENVM1oyN3VDUzhqcFRrRTg0TlZEQTNjeEtKektuOTJQM0RxT1EybW03MXJZRHhtZEg1bUtZTXN3Z0g1RUp2cHJTRmxjQW9GSjhIQnE1dVpBUzgtUkhaTFNOY0ppbDJPSXBFRmtxZVhyajlDZnE4UVViaFZKQXFCVXZCZXhz0gGaAUFVX3lxTE1OZTBPc2FtSElJNmVpYTZOTTJfRWUxVExZN1NSajNvbk1ORnRNSHg5RWxXQTVpVXJSVGhjZW8xdkRWQ25XSmwtdXhsV0Q0MGtyaTFzbXhfOC1WVHQ2M0lwdURjUm9QcDk4U1VvTV9oMHRBQ0JiMlJ1TFdJZWluWFdIbHRxeW05aVRYYWZlWGM5bW41Z0hmTThTV1E?oc=5",
-      "published": "Wed, 25 Nov 2026 00:52:00 GMT",
-      "snippet": "SoftBank drops over 11% as Wall Street AI sell-off ripples across Asian tech names &nbsp;&nbsp; CNBC",
-      "source": "CNBC",
+      "title": "Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGQ0cUZ4OUxtenBhQW1aYTdseTVNY0tCUmpUU3pGSzAtMmhPaXpBcnZ5R1FNenNDaXFObmVGRVZ5WFQ5OFg2M2RrUnloMnpScjlDUENEOVh6azRFdzNweGFGSVAxZ0dqbWdaNlZMTm5saDdfMEdsdW1UWDNlR1JQVA?oc=5",
+      "published": "Mon, 23 Nov 2026 13:46:59 GMT",
+      "snippet": "Amazon to purchase Decart's AI optimization technology to advance chip and model innovation for customers &nbsp;&nbsp; About Amazon",
+      "source": "About Amazon",
       "category": "technology"
     },
     {
-      "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
-      "published": "Tue, 24 Nov 2026 20:16:00 GMT",
-      "snippet": "China's Huawei convicted in sprawling US criminal trial over Iran business &nbsp;&nbsp; Reuters",
-      "source": "Reuters",
+      "title": "What to watch, read and wear as technology melts down",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUHkwaVRvWWdkYlc4dDRRNllPNmkzZ1IxZnROS1pQWVcycVRncVAwWVJNZWRHYnhxNllyNzJMZTFfSlBPMkhEdGpUYlA3YzdzSWNlRmp4TDFFMHF5emdHYkZQaEx6alBNLTVxZTQ5S0FNa25WNzBEODhNTlM4Rkd5MUU3MHFON1F3NXc?oc=5",
+      "published": "Wed, 25 Nov 2026 15:00:15 GMT",
+      "snippet": "What to watch, read and wear as technology melts down &nbsp;&nbsp; CNN",
+      "source": "CNN",
       "category": "technology"
     },
     {
-      "title": "Data centers are getting their own natural gas power plants",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUEwxbFI5aGt1bmZxcWUwamFGeFZjODJTbzUzdHVjYUdKTzZGNkZvNHNJT1lCMl9JTUNYcHI0cFREbFlhWU05aWk1TW02VXUxM090UmF4bThwM084ODRadUstWTZwcmE1ZGYxSXpiWDNFUWc4SnZZMHVaUThkWUhnWG14WdIBiAFBVV95cUxPR2llV2tYT0pWTE1WUDhZNG5MU3dSSXJJbUZod3BBNlZ4UEpzOTh5YXE2UEM0aGtVV0JydUdsWU5DR1d2ZmxyaEZveVRNTTFNdHBTTERoeU5FZVNjZkdNczZhbmpUN0lSc1AxeHk5bmdqRWlveUdlZEJIX1lYTk93ZDl6UmlZRkRy?oc=5",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "snippet": "Data centers are getting their own natural gas power plants &nbsp;&nbsp; MIT Technology Review",
+      "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYnJlclFZb0NoTkc1RGpyeHJEYkpTelNCUEJLbXEzUzlOUDMzbUNscGxaMHhMUnVmV2FGZHBaSVItRjZrUWJQRXdLdjVPdUl0RjVDbmRjdndHQWxDaUhUb1FoVUhUQUpDYVZYQXdXS1JmVzdnSWpNWm5PQUd3MU1KdFFwOGtXWWF1ZXlsTGtNQjRIN1Q3SkxwWXpRX1Bad3pqVnFmcWJBQ2NrRkQxU1lmNE1DeEM?oc=5",
+      "published": "Wed, 25 Nov 2026 13:06:45 GMT",
+      "snippet": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia &nbsp;&nbsp; Al Jazeera",
+      "source": "Al Jazeera",
+      "category": "technology"
+    },
+    {
+      "title": "EU Lays out Plan to Boost Quantum Technology",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUFTdGZHNlZJc21qdVRUeGtRTzJGSmlQSF9JQmRfQmVNaWt4VGxSY1NsQXVRVjlNMUxOZ08tRV92ZHVxNnV1c2FvNEdZTXZKbDVEUG4tb1V2WE5wTFNSanpudmdlMldtU1ZaUWJHcnRyZXdOaHRILVJKRi1nc29CZ1gwZDB0NHpTTndJakZlbw?oc=5",
+      "published": "Wed, 25 Nov 2026 10:04:00 GMT",
+      "snippet": "EU Lays out Plan to Boost Quantum Technology &nbsp;&nbsp; WSJ",
+      "source": "WSJ",
+      "category": "technology"
+    },
+    {
+      "title": "WA inventor who transformed how people listen to music dies at 95",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTBPS3JhUDktcVVkVXEwakIwV2dFdHZSa1YtWUFMVmRUOUpMRDdUVER6OTl1OC1QcFR3enB5MEpsWFBnVkt2YU9nSlZHN0xtZl93YkNlamVEcmJqQktoQWhlc0VrZGJTektMZm8tbm5vaXRUWjlNRDFGNGFFYmt0dkIxUEc1TkpPb0JubzhtUnh5a3g3NlhoLXE2RGl6VUE1RloxTWlRWQ?oc=5",
+      "published": "Wed, 25 Nov 2026 14:00:00 GMT",
+      "snippet": "WA inventor who transformed how people listen to music dies at 95 &nbsp;&nbsp; The Seattle Times",
+      "source": "The Seattle Times",
+      "category": "technology"
+    },
+    {
+      "title": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOT2R1YjJLbjBjWVNaaGdKVUlXLW1xLXRNczUzanM4US1aNU9RT0dHbkNpMXBsaV9nZWVieHlfeWc4TnZGUmlDRHBfNXFLbDc5eENVUVgzZnk4N3psdERKbmFUT0NUYUxHUjZITEZobDVJc1JjYkxLZzJlelRVb3Npd3h1VGZ1b2hkQmd1TDZwdkotMFdic25VZll1ZkdfVlB5ZFlSV0lCMA?oc=5",
+      "published": "Wed, 25 Nov 2026 09:53:00 GMT",
+      "snippet": "‘It’s been really a mess’: Meta insiders concerned over push to AI content moderation &nbsp;&nbsp; The Guardian",
+      "source": "The Guardian",
+      "category": "technology"
+    },
+    {
+      "title": "A Record Holiday Rush Runs Into Outdated US Air Traffic Technology",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUV5VDIyVklUUzE2SXBDR2M4OVFZR1dkYTJubXhjd2JGX0hTVWt1SXVXV29Jd01aQnpPUWc0ZTdpNy13c3JiSGlleXBBeklQQXBBdmdab2lGblNWQ3ZTQ2pUMzVScDNpWXhKUDJ1MVhweUNLdXBWLTBlTldNMlVXZE5qZnFIX3pVX0VzRXZqWUREUGxzczQ3cXBhdU1ycEVpQVB2TksyZjRDZ2xNNzFWSnhpUklXcTQ?oc=5",
+      "published": "Tue, 24 Nov 2026 22:00:00 GMT",
+      "snippet": "A Record Holiday Rush Runs Into Outdated US Air Traffic Technology &nbsp;&nbsp; Bloomberg.com",
+      "source": "Bloomberg.com",
+      "category": "technology"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHpEemNQV1JkQzJybmRFdVFaeVFGMFZyS3Y1TFNIYVp2ZVdrRmI1dWZCU1l0SC0tbFV5eHpib0o2a1dabzZQZ2NUZmFFODFIY0pQMHVYT2tUS2V6STUwLWRrOVBlYVVESlRLWlgwcnVpU3oxUnA2bXg5UW5VZWJza0NZakw2LUJBTjlWd0xvOTJfY3RlWDhwUzdZX3dpaHPSAaQBQVVfeXFMUEJZNmlIYlFCTFZkMFNRQlNscTVNcm9QbkhDZkxNMjdLYUtzcHgyRmdJN25IX2xEc2xxa2o0T19lSUpEVkhPSzByVFhmNDdhSzJhN2JxLTVIT2xxM0Z2Y2l0ak9GRHJfQ09TV05pSWVRUl9LQ0hTZzBGLXpYWDUyenZybkdHblFEUEFTN1BBRnZwREs1TW1LZ3BoaDJ0c05Ebnl1dTA?oc=5",
+      "published": "Wed, 25 Nov 2026 10:00:00 GMT",
+      "snippet": "AI is straining America’s open records systems &nbsp;&nbsp; MIT Technology Review",
       "source": "MIT Technology Review",
-      "category": "technology"
-    },
-    {
-      "title": "Seniors embrace Tesla automated driving technology despite questions about safety",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTU5SSG1aeEtZa1d3MUZ4clc0NE43QW15aXhrUXZtNzJyU0N5UUE1QnNuVkJ5dnNoLVFtZjNsLV8zTnRpZWdscTNEYXhCcnkxdTdsTlN3QmdLazZlZURUTmhRSkwtcy15RnZRUzVlQi0wVWFMNXY1ZVJJWlluOE55RmkxSGZIXzlYdlc3VjZDVDBvQi1P?oc=5",
-      "published": "Mon, 23 Nov 2026 10:00:00 GMT",
-      "snippet": "Seniors embrace Tesla automated driving technology despite questions about safety &nbsp;&nbsp; NPR",
-      "source": "NPR",
       "category": "technology"
     },
     {
@@ -157,52 +189,36 @@
       "category": "technology"
     },
     {
-      "title": "Can Pirelli’s Cyber Tyre Technology Replace Traditional Drive Modes?",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSmQ3WmdFdG1IdnRCZDlVOTc4NkRJWFRrcVktdlB6ZDZBVnZwb2g2aWhUc1JrajRjUkc5OVlIVmQtMHRfWVBrN3dqRTFJV1A0ZUhVcWJRaXR5MDFPTjgzcWZSaEpfUjFUVGRMdWYta1ZtYTk0bm9TUkJLRjZ5MDluT3V4eXBkajA2dzQ1dVMzQUl6Zktx?oc=5",
-      "published": "Mon, 23 Nov 2026 21:53:53 GMT",
-      "snippet": "Can Pirelli’s Cyber Tyre Technology Replace Traditional Drive Modes? &nbsp;&nbsp; Car and Driver",
-      "source": "Car and Driver",
+      "title": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQXB4bkpfdVM2Rkh0NTZKZmIxOHJkOEZGMnNkdy1mVHl5T2NTSmxzQVUzUHd4eHBKeFFKQU5DUnFmTG9neTRHakJCSkF2aTk3eUlPdEVZMWI2YUVGZjBoTTVjQkJqc3hmUW9ua2JQR3BsTHVKSDdoWU5oOE1qUC1hdkhYZVZRdFNMbEc2WWtQaXJHYkNxMmxPU2ZLU0EyQ0hxb2JEZjZUWEtRYXFSUUVKSm56MlZRdkMzWmlvRnBNbkc?oc=5",
+      "published": "Wed, 25 Nov 2026 12:23:29 GMT",
+      "snippet": "Europe plans €50 billion sovereign tech equity fund to boost quantum technology &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "category": "technology"
     },
     {
-      "title": "Muse: Would you let Meta's AI agent run parts of your life?",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBLNklEaF8ydE8yX1N5c0p2LWhiUDJhXy1JelNNVk56MVdmVzgxazV0cmQtRmJKcWVCcFRnaWpaZlBTSFlLbUE1NnpOV2J6Y3lWU1UwTTBoOWE?oc=5",
-      "published": "Tue, 24 Nov 2026 18:08:10 GMT",
-      "snippet": "Muse: Would you let Meta's AI agent run parts of your life? &nbsp;&nbsp; BBC",
-      "source": "BBC",
+      "title": "Allison Garrett Explores Technology Adoption in Higher Education for WISE",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeWlwUlcxQWdSWGVqUDloME42WmRGQk5FQm1HazRSQjg1Y2N3UlYyaTdPX1pxT203OG5RSUtrdGMwX24zOWhIVmVqUHIwWW5hd2RuWWdJZkZjeWhha3JwYzJWVkZsUVVfTVRJNUw3UE8wXzRtU1NRdE9oNG9DbUhTUzRKWE1Ia21VNUhyajl3MW9wenVOeEtGelBEMlY5OC1YcjNTckxkVUE1eXgxdXpv?oc=5",
+      "published": "Wed, 25 Nov 2026 13:50:41 GMT",
+      "snippet": "Allison Garrett Explores Technology Adoption in Higher Education for WISE &nbsp;&nbsp; Spencer Fane",
+      "source": "Spencer Fane",
       "category": "technology"
     },
     {
-      "title": "Gold-rich Burkina Faso opens $66 million academy to train its citizens as nuclear and aerospace engineers and reduce reliance on US and Chinese technology",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcVhPMzd5cGozMFhSek43REhEd09tTnpScmRUdEc3NEtfbmYybkIzeHBSTDJzMWlVYkI2VlZUeVYwdkRoQU1zUFlEZzBUWGRYVXhYSldZRlhESjladnNkSzdDSUh0YUt1dGQ3bGhZVXpkdmpod0RSYXpFRm9pZ2VLWF9Ed2stczVFWW1XUXU0Y1dyY1M1TklXM3BxM0tDVVl0d0w4OC12cHhtZktxT1VmeEJvelpnS3NrRWc2djFnMXdUOHM5eDNOSmlGWWtzS0dHTlBz?oc=5",
-      "published": "Tue, 24 Nov 2026 15:31:39 GMT",
-      "snippet": "Gold-rich Burkina Faso opens $66 million academy to train its citizens as nuclear and aerospace engineers and reduce reliance on US and Chinese technology &nbsp;&nbsp; Business Insider Africa",
-      "source": "Business Insider Africa",
-      "category": "technology"
+      "title": "Seattle crime wave is crushing small businesses, Jason Rantz warns",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52TE9mWlZkNUV4c2dsaVdOd2M0VnBEVnJWcEM4X21xU2JJemtuN0VfSUZ3V293Q1kxd1Y1WUYtb0hXdTdfMjhid25Sb1EzY1RiUVFQX3BuZE12cG8?oc=5",
+      "published": "Wed, 25 Nov 2026 16:17:10 GMT",
+      "snippet": "Seattle crime wave is crushing small businesses, Jason Rantz warns &nbsp;&nbsp; Fox Business",
+      "source": "Fox Business",
+      "category": "business"
     },
     {
-      "title": "ASE Technology (ASX) Is Widening Its Margins. Here’s How",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORkVQRlp4cm0wcVk1NzA3ZE9QdkNkaVhsQXViMmxPOTFtN2hqd01MeUpRdVZmVUZ1ZXNmRXVyOVlKdks5QkVJVFF3SkppemIwQ3BWbXVtNlByM1pHMHJqZjdpZE95RHE1RHA5RWpQM05kcVNIVmloYkN1UUhkbnlieEU2YnY4S3N4RXI2NlA2RkQ4c2oxanJzSXpkWTN4THNGdUE?oc=5",
-      "published": "Tue, 24 Nov 2026 19:13:15 GMT",
-      "snippet": "ASE Technology (ASX) Is Widening Its Margins. Here’s How &nbsp;&nbsp; Yahoo Finance",
-      "source": "Yahoo Finance",
-      "category": "technology"
-    },
-    {
-      "title": "How high technology is changing cargo crime",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSlNkVy1zSTJ2bmFqdFVLR0djUk03SWZnOVhUT1FoSDV5dVFiUk11eGwwZ1hJb2JyZlh0RGRFdjMtS1lMNXJSVnNhZVJsYzJPdlNRMTI1Z3phTFhrWWFLeHZ3bFAtMHo0QmZOOVVnY2I1WGNmUXdjMG4za3Q4UmVueE1kVU5yS1pVeXZEMkpRdVlFQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 22:49:10 GMT",
-      "snippet": "How high technology is changing cargo crime &nbsp;&nbsp; NPR",
-      "source": "NPR",
-      "category": "technology"
-    },
-    {
-      "title": "Lunar Surface Technology",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GWWpVSW52Ty04cEdiVi1JTE0yM0U1RlNSUURFNjdxcXhxQWYtaF9iUm9OVHhLek9BODNGWE1tcUNkVEFEdjlPUG1zZnZxZlF5T3oxdnBuVzQyQQ?oc=5",
-      "published": "Tue, 24 Nov 2026 16:33:11 GMT",
-      "snippet": "Lunar Surface Technology &nbsp;&nbsp; NASA (.gov)",
-      "source": "NASA (.gov)",
-      "category": "technology"
+      "title": "US shelves plans for business deals with Russia to end Ukraine war, FT says",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZFZhN2w2ckJtVC03TWJPb2FwbDlrZzdDd0tRUWRmeGh0WXJBeWZjelhNMFNlMjNPTzJZVjB2MVhtZzhqSE9rdzZkbE5kZW5HbDdxeVVhd1g0aUExaHZGMm5oVy1YTkcyMmdaN0s5aG9kNERVZWl0OHpVaFRNVkFaNVQwTnFKMjAwWFMtenFJU002WlBIbWVqRVZHTWlWa19BXzNDaDJVVmUyRExDUXBHZnVmTHMwV01iSHRPallncHNkT09hNnc?oc=5",
+      "published": "Wed, 25 Nov 2026 05:16:00 GMT",
+      "snippet": "US shelves plans for business deals with Russia to end Ukraine war, FT says &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
+      "category": "business"
     },
     {
       "title": "Trump says ‘it’s probably not too late’ for the US to take a stake in Nvidia",
@@ -213,84 +229,84 @@
       "category": "business"
     },
     {
-      "title": "The Frantic White House Push to Get Jensen Huang Back",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pRUxrRllGQzRjbm1mbkxwWi1pcGVDREtMYVFlTWt0c2RaMm4zSFZ0UTFIOHc3eVpiaS1xODducUx5T013ekU4czVXaUVmR2JUblZPNS03Qy1yNW9wNloyaGdWeHVBQUI1VVR5NTdfRUxfNTdvdG1pSA?oc=5",
-      "published": "Tue, 24 Nov 2026 07:36:22 GMT",
-      "snippet": "The Frantic White House Push to Get Jensen Huang Back &nbsp;&nbsp; WSJ",
-      "source": "WSJ",
+      "title": "Trump Doesn’t Care Who Might Get Hurt",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVYmV5NWVuVFNVY1ZfOTNaN2tuTjVuZEVvTmdnVlRQZkI0b003X0JybFBhbElyWnZIeU9sNHRmRWN2b2JzRF9BSDRrcGYteEY5OEdsdkxOU0FDWnlESGUzUWVCaW0zeHVpOGR5TzZFUTZTWFp1YldoNlYtSW8?oc=5",
+      "published": "Wed, 25 Nov 2026 11:00:00 GMT",
+      "snippet": "Trump Doesn’t Care Who Might Get Hurt &nbsp;&nbsp; The Atlantic",
+      "source": "The Atlantic",
       "category": "business"
     },
     {
-      "title": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QY1VoSjVXdkRXRWpuaFRlRHgxOVZsY2V3OHNaOXJ1RlB5Nm8xWHRTcDNIRFVoYlJ1T21zTmstcFBjNjQwZFhrX0x3Y0EwbmRIaXdFaU1FVnYxTEdYbVlTekg0cktMdHREM01fc0x3?oc=5",
-      "published": "Tue, 24 Nov 2026 22:52:02 GMT",
-      "snippet": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang &nbsp;&nbsp; CNN",
+      "title": "Why it’s getting harder to tell first and business class cabins apart",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SUW1nVHRxc3EzaFhWeFFwY29ObF9XdVUwczVPQVAzY2RRM2xWbjNMTXpYRUswWURMYVByQ0pqdUhHRmEyS1VwbXhBUFR6akhlUy02Qmczcl9mRWRPOGMxem9YamtuMjNiRk9xM0JObC0tMUNPcU1VLQ?oc=5",
+      "published": "Wed, 25 Nov 2026 10:39:47 GMT",
+      "snippet": "Why it’s getting harder to tell first and business class cabins apart &nbsp;&nbsp; CNN",
       "source": "CNN",
       "category": "business"
     },
     {
-      "title": "Trump’s Nvidia intervention rewrites the rules of American business",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdEQ0TzJnb3dObHlVcTJCUXd0RmRPbXAyaUJlbHc4VjZpZlBYZFo1TkVMZWVKOWNFaEZ3X2EzeURMY2Jjd2dkaDQ0WnNxWjVKcXhGcWRhUnB0TnVzMmJsUkFwR3FITWwzQUViREczNzU4U1UtR3hSM0VmcGhGaFJpVUpLbGJRX1Fsejc1QzJvSVNMWlJ0b195OE5WNWVDY0ZtZFBQa1dNQlNEblI1dnU1bVlRSQ?oc=5",
-      "published": "Tue, 24 Nov 2026 18:00:00 GMT",
-      "snippet": "Trump’s Nvidia intervention rewrites the rules of American business &nbsp;&nbsp; The Washington Post",
-      "source": "The Washington Post",
+      "title": "Reviving a lucrative family business",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc0VVaHdlMnZLLWxHNmdOb0dUOGJab3NoZkFBcDloSGsxNW9uNjJzOUg4bEF5OWRoN2pEMWY1c05peTFwWDlEVGtKeU1Od29FS0NiYk1xbERRX1YtUDZWYTVKWFhUTU5HVGVGQzZUaXhVS29fR2ItNXdYVG84YmJPU0FjdVQ3bUttNEZWM25kV3F6TEtEeUZB?oc=5",
+      "published": "Wed, 25 Nov 2026 00:00:00 GMT",
+      "snippet": "Reviving a lucrative family business &nbsp;&nbsp; The Economist",
+      "source": "The Economist",
       "category": "business"
     },
     {
-      "title": "Bombed factories, billion-dollar opportunity: Why German companies are staying in Ukraine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYWNjVXhNUDU5bFI4TjBzVjVBcFRNS1NkdFctYUZtbU10QWprNWpGdzdnWnlxMDJwdm5wTGxLQjEtbjBhOGFDM0ZxZ2Fralo2MFVXQ1I2SzR2QnpITnFHU1pSSkdsbEFaVUdTUG9mdW83NkR4OTV3TVltWDBRR21qNW5Gemo5ZFZvdkltZzNPQVpVcURBTm9aanBkUnBkN1V4ajZlTXl4SXJQRFdZbkczSFNTdTJRaEVrSXM4TNIBvAFBVV95cUxORTJIQ3htY3V3aVlOZW5NVjIwc2RCUGpjdUZCalpxUGxLdzI2YU4xeDR1V2R4bDBINmJNTUhwWjh4SjFRTTdUdXp0akU5bEpwOUNKVDViekRuZ19jRkp5STFCSFZlUkM4OVJYUTR5Y1dxcUdjTkw5NDZZRzNDWWYzZ0tZckMxVkVxWHpESElGVF82dUZsN1RSbWwyVmNJLTdldDJiZ2xidmRDSU5oaVlDRXlZRU9HZ004amlQRQ?oc=5",
-      "published": "Tue, 24 Nov 2026 11:38:58 GMT",
-      "snippet": "Bombed factories, billion-dollar opportunity: Why German companies are staying in Ukraine &nbsp;&nbsp; DW.com",
-      "source": "DW.com",
+      "title": "China's Huawei convicted in sprawling US criminal trial over Iran business",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+      "published": "Tue, 24 Nov 2026 20:16:00 GMT",
+      "snippet": "China's Huawei convicted in sprawling US criminal trial over Iran business &nbsp;&nbsp; Reuters",
+      "source": "Reuters",
       "category": "business"
     },
     {
-      "title": "Amazon delivery drone crashes onto garage after hitting cable",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVQzaUZZVDFGSUpNU1Q3SV94OTVELXdHSl9CZU5rY0ZkcUtqWlNZYVVINzJPejQxV2pRQmFhWmNWX3J5NXNiaHRDby11S2ExUklaUjZyVXRFdTB1VjZlNXVOTFFPcU01dGttSTlrWGYxbzBxTzhzR1dfNGRkLVlmNFdZaFlnQWk0NUJULWxUMm5yNldmSTcxS3RwWTZ4d0F5dHfSAacBQVVfeXFMT181QWNuaFdrcEZMQnk1MF96bnRpU2ItczJ0bGNXbnNjS3dpcmw4bGNlUU5DMUloNC1laF9wUlFIb1dkNHh5MXQwWHAzVC1DUkhJaDhvcG5IT09xdFUtTlZYUzlpdngwc20yRl9IU2d0TWJ5eV9kcmR5aDlWekdJNy1WcGlKV0Z0Z3hQZFo5OXBJdVRLdlZybDd0MmZGQWFrS29QSUdXYW8?oc=5",
-      "published": "Tue, 24 Nov 2026 17:40:00 GMT",
-      "snippet": "Amazon delivery drone crashes onto garage after hitting cable &nbsp;&nbsp; Fox Business",
-      "source": "Fox Business",
+      "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSS1zVDA0RTBrU2tLS1d3UENNLWNYQ05lVFdQSzc5N0pna2VPUTdINkhGNThTbEhPRDQxNVpxVGJrZnpKQjUtVUNRNE15UmJjbzhraWg2TmkyRTdYNldUWXNMbkxJSkg0WlNrR295djdZSXRFdFNlWllOU2NaOXl1cVRraVJIaUk?oc=5",
+      "published": "Tue, 24 Nov 2026 23:03:18 GMT",
+      "snippet": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World &nbsp;&nbsp; The New York Times",
+      "source": "The New York Times",
       "category": "business"
     },
     {
-      "title": "Comings & Goings",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWkxMdGV4amcxcGtTUS1DdnZaSnB1YndnbVA2UWxOSDVULVBSTGJjX1NUYlpvWUVrdVBzT2VYdU1VNGNtMkxBbWRMVXhvT2dGQUFucjV0LWVVN0U?oc=5",
-      "published": "Tue, 24 Nov 2026 22:16:30 GMT",
-      "snippet": "Comings & Goings &nbsp;&nbsp; SiouxFalls.Business",
-      "source": "SiouxFalls.Business",
-      "category": "business"
-    },
-    {
-      "title": "5 economic trends to be thankful for",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEVHNG9sdVBKV1FwcjhUN3JoT1RxXzBIdkNsT0hoV080emFNajhNcFp1Q0pvU1hUYUF5WmtwMkdQc2ZPQm1PS2N6Smlhclp5T0xyVkhTc1ItNHNMWWJfS1dYa0FMRlJQd0pLU0x2SjhBX212WW9JdnNUZW9MQUNkUVdxSzBOM1hjSGpvNg?oc=5",
-      "published": "Tue, 24 Nov 2026 17:00:11 GMT",
-      "snippet": "5 economic trends to be thankful for &nbsp;&nbsp; Axios",
+      "title": "Denver considers helping businesses hurt by construction",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT0dyZU0xaG4tLXQxejdoc0xGcUlmZmp6elh5U2tQdWRuM1J6MXN4S2FRcDZBUWxVbFAtVzYtN2w0NmhqT05VV1prMnBnNFNSMVRTemlzanZMRzVyZmJ6N21RSF85MGlWZnY5Skh6aXJtRS1XUWsyanJnRjUwSHU0VEJFbjA4NW1NTG5F?oc=5",
+      "published": "Wed, 25 Nov 2026 13:20:09 GMT",
+      "snippet": "Denver considers helping businesses hurt by construction &nbsp;&nbsp; Axios",
       "source": "Axios",
       "category": "business"
     },
     {
-      "title": "St. Paul business hit by Operation Metro Surge is powering through",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDR4N2lybTdOLTBqYXRaY1JNd2J4azluVkM0NXp4RUQtRjNJTE5xSEdvVDk1TFFubk9UVUFrSUtMcUpNMVB1U3hIOHd2OWhJdzJEbzVsWndSY01zT0JiLU8zbl9KWFpRVWdRX01tZVN0TnpaSy0tZ2xwMnhLMFNVbk1YVEFRaHJuZnNUR3pFdjdfbUJZRE5wMDNfbmdsVzFDMFBuZklHR0NoZw?oc=5",
-      "published": "Wed, 25 Nov 2026 00:21:00 GMT",
-      "snippet": "St. Paul business hit by Operation Metro Surge is powering through &nbsp;&nbsp; CBS News",
-      "source": "CBS News",
+      "title": "A NATO ally bracing for the Russian drone threat says finding them can be harder than taking them down",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZUVmaUJSWUw4Q0V6Umc5cjdtbzVwWXJHV3FhNlhFTWtkQk5hdTQzQkxJRDBKZUE3WTk4SHpKcFhVYTVSdUpkbnZUUm82ejJLVWlQRW1xS2VPM0FtajdOejQ4a1dBNEUxcTBIbW1BTTZVcTZOd0prMS1VdkhvZFV0OG9QOFZaRktzQ2M3UVpVb3RxUlZlZmduMEtNR3pIQQ?oc=5",
+      "published": "Wed, 25 Nov 2026 13:05:00 GMT",
+      "snippet": "A NATO ally bracing for the Russian drone threat says finding them can be harder than taking them down &nbsp;&nbsp; Business Insider",
+      "source": "Business Insider",
       "category": "business"
     },
     {
-      "title": "Electric boat maker Zin Boats raises $5M and launches propulsion business beyond the water",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN2M2clY3WV9ZempvaGhzcC1GYlVtSWc5NWowR213YmdRMnBTUURub0hJRkRUT3UzM1Vjd1U4TmZsU3RuM2dPZTBZOFY1WHZEQ3RrREE5akQ2Ym96SFd2LUpOYnd4MXRnd0NpSlR6dklyYzRNUVFyZzdOS2xwYVlON2tDNWlVb2RRRTlKTHFsZVlMNGlvMXd5ZjN2XzkwN0MxZlZKalJGdkk1R1Y1WXB6MHR0elppYTdMc2FIRA?oc=5",
-      "published": "Tue, 24 Nov 2026 17:58:19 GMT",
-      "snippet": "Electric boat maker Zin Boats raises $5M and launches propulsion business beyond the water &nbsp;&nbsp; GeekWire",
-      "source": "GeekWire",
+      "title": "Twin Cities small businesses prepare, reflect ahead of the holiday shopping season",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkJuakw0MFU2MDdZNkxRQ1VXMDNtU3pGelBiTVpUNlNxcURSMHd6RVBoaFRPQ3N3b0x4aFFMUWlFVVUzaUFLbVNQWk1CUElMYjF5ZXVVb2s2U05lUnAta243ellPX2FoNko4REZWeDhvOVNWVS14RS1pWWp5cjhYT2FRQnkta1RHc21sTUpmMUxLMXlSLTAzbFZtYThTTlU5OEpJWXRQZlYtSldQcXNCbXp3?oc=5",
+      "published": "Wed, 25 Nov 2026 10:00:00 GMT",
+      "snippet": "Twin Cities small businesses prepare, reflect ahead of the holiday shopping season &nbsp;&nbsp; MPR News",
+      "source": "MPR News",
       "category": "business"
     },
     {
-      "title": "China’s Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmRRaEFuMEkxY0ltVXJpRmpUampjSWVsTVJ2S2JNdGlzaFBHOVRqbHUyQUJrb3ZvREJOWW1wYUZDbFBSRk9UaG44aGZBZ2VHdE5HVUxOMDF1Vjh4RjV5S1JHTUEtTVJVVDJDUGNfZEJ2WTJjT092cUNMTVpDR0FLQ2ZHRWh4Yk1NYnoweXNLRTFrSFVsVU9IRGFYMDdvTmJtamZpSFNRMnZjZWZzQzQyNmxySjlBZw?oc=5",
-      "published": "Tue, 24 Nov 2026 21:11:00 GMT",
-      "snippet": "China’s Huawei convicted of deceiving banks about business in Iran and stealing US trade secrets &nbsp;&nbsp; The Guardian",
-      "source": "The Guardian",
+      "title": "Average full-time salaries in Europe: Which countries pay the most and the least?",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNX1VoUXBOZE5PYncwTjZSVF9XQ0g3bXNXdi1KdjZuYWZhZjBINjJHYTJ0cHZKY2NGenFvT3J6aXdJN3FlNFFMNE43SDhqazVveEVrVEEzRGZKSDI0Q01Zc25WVU53VU1ldXBCNVdCUUZJVTJPX21CNG85UGEtSU9lSVk2bnNVaXloZzYtSFlnLWw5dmxuRllZSC1KQ0lNU3lZTkhuOVUzUFVvOU5Eb3M0dWtRSjk1UQ?oc=5",
+      "published": "Wed, 25 Nov 2026 05:59:53 GMT",
+      "snippet": "Average full-time salaries in Europe: Which countries pay the most and the least? &nbsp;&nbsp; Euronews.com",
+      "source": "Euronews.com",
       "category": "business"
+    },
+    {
+      "title": "What Can Turmeric or Curcumin Supplements Do for Your Health?",
+      "link": "https://www.verywellhealth.com/turmeric-curcumin-benefits-12265204",
+      "published": "Wed, 25 Nov 2026 05:40:00 GMT",
+      "snippet": "Turmeric and its main antioxidant, curcumin, have anti-inflammatory effects. They may help reduce pain, boost heart health, and reduce depression.",
+      "source": "verywellhealth.com",
+      "category": "health"
     },
     {
       "title": "Digital Health Providers Face Overlapping Federal and State Rules",
@@ -317,27 +333,19 @@
       "category": "health"
     },
     {
-      "title": "Health care costs reach a breaking point",
-      "link": "https://newsroom.heart.org/news/health-care-costs-reach-a-breaking-point",
-      "published": "Wed, 29 Apr 2026 17:00:00 GMT",
-      "snippet": "New American Heart Association Presidential Advisory outlines contributors to and consequences of the current health care affordability crisis, proposes five guiding principles for action by lawmakers ...",
-      "source": "newsroom.heart.org",
-      "category": "health"
-    },
-    {
-      "title": "Catastrophic Health Insurance: What Is It And How Does It Work?",
-      "link": "https://www.forbes.com/advisor/health-insurance/catastrophic-health-insurance/",
-      "published": "Mon, 02 Nov 2026 20:08:00 GMT",
+      "title": "The Worst (And Best) States For Healthcare, Ranked",
+      "link": "https://www.forbes.com/advisor/health-insurance/best-worst-states-for-healthcare/",
+      "published": "Fri, 13 Oct 2023 02:21:00 GMT",
       "snippet": "Les Masterson is a deputy editor and insurance analyst at Forbes Advisor. He has been a journalist, reporter, editor and content creator for more than 25 years. He has covered insurance for a decade, ...",
       "source": "forbes.com",
       "category": "health"
     },
     {
-      "title": "Your Guide to Behavioral Health Therapies",
-      "link": "https://www.healthline.com/health/mental-health/what-is-behavioral-health",
-      "published": "Wed, 12 Jul 2023 00:13:00 GMT",
-      "snippet": "Behavioral health practices focus on the ways that your thoughts and emotions influence your behavior. “Behavioral health” is a term for a wide-reaching field that looks at mental health, lifestyle, ...",
-      "source": "healthline.com",
+      "title": "Health care costs reach a breaking point",
+      "link": "https://newsroom.heart.org/news/health-care-costs-reach-a-breaking-point",
+      "published": "Wed, 29 Apr 2026 17:00:00 GMT",
+      "snippet": "New American Heart Association Presidential Advisory outlines contributors to and consequences of the current health care affordability crisis, proposes five guiding principles for action by lawmakers ...",
+      "source": "newsroom.heart.org",
       "category": "health"
     },
     {
@@ -365,107 +373,99 @@
       "category": "health"
     },
     {
-      "title": "Examples of Jobs You Can Pursue With a Degree in Health Science",
-      "link": "https://www.snhu.edu/about-us/newsroom/health/jobs-with-a-degree-in-health-science",
-      "published": "Wed, 01 Jan 2025 16:00:00 GMT",
-      "snippet": "When reviewing job growth and salary information, it’s important to remember that actual numbers can vary due to many different factors—like years of experience in the role, industry of employment, ...",
-      "source": "snhu.edu",
-      "category": "health"
-    },
-    {
-      "title": "A Chinese research entity FOIA’d my scientific work. I had to give it to them",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMXNrbE92d05HWE9lbmpNc1hzU29KWmhHRG52ckFFUEVzRWlfTTBVLWhXV3JuTk1iSURRRmtGRE45MjhFM1NCbmNWMXREaHF1dUF1X0hkN3NicHRNTVpRem10ZFdYMlE3cERmR21wMVNIcjN6U28yNU5SdGFXSFQ1SXh4Zi1ETzJUemc?oc=5",
-      "published": "Mon, 23 Nov 2026 09:40:12 GMT",
-      "snippet": "A Chinese research entity FOIA’d my scientific work. I had to give it to them &nbsp;&nbsp; STAT",
-      "source": "STAT",
+      "title": "Earth's core may be leaking a 4.5-billion-year-old secret",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zMmZKakpsNVBqbHl6V3AxV0VINi1nQ3N5QVBwVDBpVXZyMHh0YVRBbFlGR1dGTDNmZlNLMzdOR3ZaNGxGcENnZ0NNenVxLWVqN2g2UURuZVB5Q2lvcnIydUxBN01Ga0tkZVY3VjJjYw?oc=5",
+      "published": "Mon, 23 Nov 2026 23:15:39 GMT",
+      "snippet": "Earth's core may be leaking a 4.5-billion-year-old secret &nbsp;&nbsp; ScienceDaily",
+      "source": "ScienceDaily",
       "category": "science"
     },
     {
-      "title": "AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up?",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOEo3b0F6RllSTjhpb0U1djFuOXo1VDFzU3BQRXRGNU1sdTJMMERZWGtSSFdRVE8xTXF1V3llaXAzMXlUUTd4WDkzSm9VRnFHc21HVkFWSXpNZFh2SW84cGhwdGZwSGQ4WG1FZXBvdGpZR2tnTWlKd1JNRmJUYkZxZmRJQWR2dkJuSEVmcTFKUG9TdDAyY01NcmdjS0l5N2tmYkJrbjNOdWM1Wmc?oc=5",
-      "published": "Mon, 23 Nov 2026 15:02:06 GMT",
-      "snippet": "AI Is Advancing Faster Than It Can Be Tested. How Can Science Keep Up? &nbsp;&nbsp; National Academies of Sciences, Engineering, and Medicine",
-      "source": "National Academies of Sciences, Engineering, and Medicine",
-      "category": "science"
-    },
-    {
-      "title": "Scientists Simulated What May Happen If a Nuclear Bomb Goes Off in Space. The Fallout Is Terrifying.",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWRwTm1kNFV1Ry1kYmhSVTBuTXpUbGNDdzdUNVROdGxhYmh0V0xIa2lLZ2IybzNEN0FxZnBOUVJHbmF2UHZJX09vRThyM0xTUUhLd2tRczJHTjlGNVEyaTFlVnk2NE5OY1ZQWkRsdkpDckR4Vk9DWThxQlUzZFhWR2FDOXVtbmlRbEhPQkRnaFA?oc=5",
-      "published": "Tue, 24 Nov 2026 13:30:00 GMT",
-      "snippet": "Scientists Simulated What May Happen If a Nuclear Bomb Goes Off in Space. The Fallout Is Terrifying. &nbsp;&nbsp; Popular Mechanics",
-      "source": "Popular Mechanics",
-      "category": "science"
-    },
-    {
-      "title": "Eruption Extends Iwo Jima’s Beach",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdkVZZXhITzA3QXJTa0VINUFkc0NCeERjTlk1LU5icTV6U25vcGZWcWlER2JtN2RqaGtqTnJGVm5Ld1lCaVBCVlgza1JRUXFfM3NDaDlsOXMxdGlOWnI0RzZWMFhwcHJOU2FRLXg1dDd4WmMxekc0N3VtZ0R2a2ppRFg1b29YS1lXSGc?oc=5",
-      "published": "Tue, 24 Nov 2026 05:01:00 GMT",
-      "snippet": "Eruption Extends Iwo Jima’s Beach &nbsp;&nbsp; NASA Science (.gov)",
-      "source": "NASA Science (.gov)",
-      "category": "science"
-    },
-    {
-      "title": "‘Breaducation’ explains the science and technique of a great homemade loaf",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaktqZW8wb2ZJSzhJLUJPbGlPUVVxMFEybTJIVlc3OFN6TU5udXhrMGZzZFRURFdaLVBQYzhsYXBkckVsOHFNckYyckhSR25CNDlJX05NMzFZcWphdFRTaTQyOXhmTXBRZ1hkOTBtWFFFNUtsSUgzSmJ0a3pXLWMwaFlNSUNMc2tSR0lpcVZQMTdLUEtmTzNHY0N3?oc=5",
-      "published": "Tue, 24 Nov 2026 22:49:43 GMT",
-      "snippet": "‘Breaducation’ explains the science and technique of a great homemade loaf &nbsp;&nbsp; The Boston Globe",
-      "source": "The Boston Globe",
-      "category": "science"
-    },
-    {
-      "title": "Ancient Greek sanctuary discovered atop mountain — and it may have been dedicated to the goddess Artemis",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVTJfSGs2NGZDOFhrdW5jZjlzY1JHZ1JwLUtKQ1Q0Y002WmY0Mk40blZ5M3hGYUI1bjRjZVRfbnVrandsd3NGeTdaSlNxSlo5aTZWZkdCQ0UzM3dUQzV3TkYtTnMwN2NBN3BIdW1GdFdlRmdvbFk3dDl4Q1J0eDNXaVJORHdZR3lZazBkTmIzdzhvTTV0SDZOd21ZNVB5eWw0RlJBeExsMC0zRk5DakJWc0YxSVAzS0hWNlVST1YwOXRZb3JrdEZvSFNGVV9JUHE0MHRidHhia1lucGtS?oc=5",
-      "published": "Tue, 24 Nov 2026 11:00:00 GMT",
-      "snippet": "Ancient Greek sanctuary discovered atop mountain — and it may have been dedicated to the goddess Artemis &nbsp;&nbsp; Live Science",
+      "title": "100,000-year-old tooth found in Chinese cave may be from unknown human lineage",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUUl0aDQzMkRNZDBtZmwzWXNrbkJpRTNQTTAySS01cEVRVzJLOWNWV1RPODA1YTVHdnRLMW9uNkh5VkhxS3I0UldERUthRU9CXzNBdkR4UXRHRXEyajl3aHVYSkdXXzFST19ucDVQNzhmMlZxYWVCWUJBZUMtNDdmZmphVy1LRUZJd3pHNW4xV29uMUotRE1henVrZUVRbF9mUGJ5YWJFSTdEYTRGdWEtYU1tTno5YUFHSnpmOVlMM1RRNDFNb3dsbVB4ODJxWHc2NkRYVXhweHgzRzVRYzNaUjZ2SHV6UERFaXo0czM3NG4zVFRnSmc?oc=5",
+      "published": "Wed, 25 Nov 2026 16:00:00 GMT",
+      "snippet": "100,000-year-old tooth found in Chinese cave may be from unknown human lineage &nbsp;&nbsp; Live Science",
       "source": "Live Science",
       "category": "science"
     },
     {
+      "title": "APOD: 2026 November 25 - SPHEREx Seeing Through Dust",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUhZNFItM1l0bzUwek91RlR2cnpXaWF1VVBlNVU0VEZwZlFQVEVEcXpld091NVZWN19qaF81cVBiYWo5d3ZsMWwwZ3dDZGQ5bXhBbVlSR1paVmNXNVRkRUV1VHI4RkNXOW9tdzR6ejlYdG9wVUtsNmdVR1dIX3dWM0p1dHhCaHJFYnZsRHNmX0hRZVU?oc=5",
+      "published": "Wed, 25 Nov 2026 05:05:00 GMT",
+      "snippet": "APOD: 2026 November 25 - SPHEREx Seeing Through Dust &nbsp;&nbsp; NASA Science (.gov)",
+      "source": "NASA Science (.gov)",
+      "category": "science"
+    },
+    {
+      "title": "Want a better winter workout? Train your muscle clocks : Short Wave",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUZOa2t5TW1rZUNrNElKVV81VFotVmg4WmNFOWtGSnBxVTQwZXNZU2Z4SS1VYllKXzEyTWdPTjRvTHRfQlFqM2liTWMtRVRqOGZEdGdOYXk2S3RBVzkycUFCZUItcktfZV96Z3VyUVYxaTJaWGwtNTFVd0VlcjhMWnFtWUg3YXdv?oc=5",
+      "published": "Wed, 25 Nov 2026 08:00:00 GMT",
+      "snippet": "Want a better winter workout? Train your muscle clocks : Short Wave &nbsp;&nbsp; NPR",
+      "source": "NPR",
+      "category": "science"
+    },
+    {
+      "title": "Scientists discover quasar formed 630 million years after the Big Bang",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWQ4MjJwb3M5ejZIa0dUbDBncmVLaDAwMzlHQTd1QUFXQW9LQkVnOW8yNWJ3SjVONGRQZk80bDlpTDduR3VhQlA4d1pOdWRBVWpFT1F2WEwyTnpKTS1OVV9ZaHRCb3BST290N1RwMHZ1NmpLNlVYeW93NzVPNW1tREJ5MVBXcFZhS29sNVlDdnA3YWhkT3Bjb1l1UjdtVEg2UkNmcUZR0gGmAUFVX3lxTE1FTTBrQzU0VWo2ZHIxSlhqYUpqaE1nMmJhVUQ5VUFjT0F3WXV3cy00eFdkUU5oSnV3Q1E5RERrdTFqWk52Ql81aE9ITmNidHBfaFl3THpDa3VkWjBHdXBfN2pjdVVuaW5Hc3BwMzhmRkx4V0dhOVlhT0lYZFlQd0ZQWVVuTHdQYkdlMmRGUEtoa29RNVVKZXhpZDJwR0N1bnZUVnhCV3c?oc=5",
+      "published": "Wed, 25 Nov 2026 14:42:01 GMT",
+      "snippet": "Scientists discover quasar formed 630 million years after the Big Bang &nbsp;&nbsp; Deutsche Welle",
+      "source": "Deutsche Welle",
+      "category": "science"
+    },
+    {
+      "title": "Is faster and cheaper really better for NASA science?",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3FhRkJtOUdwajYzc2ppbEJiTUVtaTFWUWRvTG5zYlF2OVFibzQwN1FXZHpzVTNXSC1VRkIyMDRvRHU0NnViVEVzbnZKZDBFNF9QT0gyX3lOVG9OOGJaemNNMmt6Wkp1NTRHT0U4MERWR3VnSDJELUF3SnRUUUpuZA?oc=5",
+      "published": "Wed, 25 Nov 2026 15:00:00 GMT",
+      "snippet": "Is faster and cheaper really better for NASA science? &nbsp;&nbsp; SpaceNews",
+      "source": "SpaceNews",
+      "category": "science"
+    },
+    {
+      "title": "Why this Broadway composer is in her ‘science era’",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakNEaDFjODAxSFFPTGlISGVsX00za2tCOS1KRnBzRzNKWDJMT0FMU21NWGRPTjdWOGNneGJWWjBkcWUwa0gzUF9qa2xqMnVoRU9TZUNHU3psa21oTk50M2lxWFpFdnVvNm5YdnNmbEVOR3N3RkdGM2R3ZVFIb0xnSUFqVU96cENJOXZEdXNyREFkN202Njk2eHpwZ09Jd1NaaEZFM1dycVJDX3FZeGFzZnZBSQ?oc=5",
+      "published": "Wed, 25 Nov 2026 14:00:00 GMT",
+      "snippet": "Why this Broadway composer is in her ‘science era’ &nbsp;&nbsp; Scientific American",
+      "source": "Scientific American",
+      "category": "science"
+    },
+    {
+      "title": "Violinists Swear Their Instruments Sound Better With Playing. Scientists Put That Belief to the Test",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VeGJ4NkdRX1dtVFVLSmhRN2UwMEdmXzF2MzVWdTJVMExlai1KQzBPcnNXUGkwTUlLSnJZUlJCMENicy02b21sUFpKY1ZrZjJvbl93dS1Mdi1BMGtuY0h6ZzlCNVA4czY2MEtvSDVqYVFOUjBs?oc=5",
+      "published": "Wed, 25 Nov 2026 09:24:49 GMT",
+      "snippet": "Violinists Swear Their Instruments Sound Better With Playing. Scientists Put That Belief to the Test &nbsp;&nbsp; ZME Science",
+      "source": "ZME Science",
+      "category": "science"
+    },
+    {
+      "title": "U.S. Forest Service releases Bigfoot files",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM0ZWSHFlVm8tTnBIeVZTbUFuNEtveU1icGlERzJVd1hxUXFjSEZUOW0tZzlVaHNkYWdaQy1iMG1WY3ZONExZdldQYVpwS3hjWGlfVnp3NVdZY3F4TDNNSGtKMEJVUUpQSEtjRzNPTGotRDVjX3VUSnhGQlhNN0R1cG12ekQ?oc=5",
+      "published": "Tue, 24 Nov 2026 18:28:54 GMT",
+      "snippet": "U.S. Forest Service releases Bigfoot files &nbsp;&nbsp; Popular Science",
+      "source": "Popular Science",
+      "category": "science"
+    },
+    {
       "title": "Health science teacher arrested for cocaine possession in Beaufort County",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFl0QnV5Ul9KeDREY21EaHAzejZtY1JEX0t0eU8tQnk2dHdzLXptcmNCN05ZYnJpczJMb0xaSkhJOTFnbEtjQ29ib0JmTWVaMmgyeC1pRW9saVJ3WXdOTTN4SFMtaXhRaTNfNWlTT3hjV2N0MlpiVEVzMnlENTF6Y2ptY2FDVDhjeVRWdXdxd1psdmZsMFAtY2hJaW1VUXQx?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFl0QnV5Ul9KeDREY21EaHAzejZtY1JEX0t0eU8tQnk2dHdzLXptcmNCN05ZYnJpczJMb0xaSkhJOTFnbEtjQ29ib0JmTWVaMmgyeC1pRW9saVJ3WXdOTTN4SFMtaXhRaTNfNWlTT3hjV2N0MlpiVEVzMnlENTF6Y2ptY2FDVDhjeVRWdXdxd1psdmZsMFAtY2hJaW1VUXQx0gG0AUFVX3lxTE91a1lIZkNwNVhTUjVDeTd1eW9meGFkNFpHX1pQcko4RnhxdXJ5UEwwVmRHWldXZDBPQXRIdDBCcWk3SHBSRVpySWhNa3NwSFA5Q3NDa3RJeWNkTVctbzhrUi1GX2pIcXZveEtqQ2htVkMxdTYwdndrOV91c2lzY2tJUVplTU56R2piVm5vV2Z1QmM1aEVnMnRXZHJsYlAyYUtTNFpnTjd6cC1uWEh0c3Z1cUlyNA?oc=5",
       "published": "Tue, 24 Nov 2026 15:36:00 GMT",
       "snippet": "Health science teacher arrested for cocaine possession in Beaufort County &nbsp;&nbsp; WTOC",
       "source": "WTOC",
       "category": "science"
     },
     {
-      "title": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record - ABC News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYkNfSXVCb3l2YkVuTjl5RExoRmNVbXBiOTVhLWtVYks5TVhEMzVMVU5YOTNqeERUYUNyMG5UVjkzVVFId0hIVFduVUNJbFNMZHBhcVRVSHUya1Z1RUN2NkJaLUIxanlRLWZUNXQ0WHgwRUotak5BaG51NEItU0VUcnR0NE1xTWtCTmtqWExvM1BfRXNtZlhJX0FUVzNvLU1OTlM3Z3JsWjZPVVXSAbABQVVfeXFMT29RWVBob09uVUo2T0NrWlVEVldMWVlrazJVOTNRZ2tCQmcydXI2TktFVVRuY2NRR0E3SHNma18yV1pVanFWR0N6Y0xqS2RSdHphNlAwUlFyY2hmcGIzTHZoN1NVOXZodnBuWGxNWl9icUNZdmo1ZkY5MFNnTW5YWDRwUXoxUUtaaEUtTTRSeW91cnE0ZzVzNzZPZjRvdUJkS3BZbl9EMy02Zi1va1dENmQ?oc=5",
-      "published": "Tue, 24 Nov 2026 08:23:14 GMT",
-      "snippet": "Scientists discover quasar formed within a mere 630 million years of the Big Bang, setting a record &nbsp;&nbsp; ABC News - Breaking News, Latest News and Videos",
-      "source": "Breaking News, Latest News and Videos",
+      "title": "Genesis Mission assembles Avengers to accelerate American science",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjlFbDF6ZGszVU5NanZtRHZYWktFSDRlbXpDczVBZEZ2QUcyVEhrcGYyU1hSX1cwN2xIVVhJam5VM1ZycGJsNFNvU2pvZzI3WEdMZG9Ia3ZieF96dUp6Yng2ZFVreGc1OUpKYU8xczZfYnhJV3BCMzZCRGhvUXBYWnMyMUtObk5VUDVMNVQ1SEhXdGFybmZKemlXNA?oc=5",
+      "published": "Wed, 25 Nov 2026 15:32:22 GMT",
+      "snippet": "Genesis Mission assembles Avengers to accelerate American science &nbsp;&nbsp; Fermilab (.gov)",
+      "source": "Fermilab (.gov)",
       "category": "science"
     },
     {
-      "title": "Oldest known quasar formed 630 million years after the big bang",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE53b0hXNWZzV1gtZlU3b3dWVVF0NW9WWjVWcFQ2ckJwZy0wNE5HVnBESy05UFNZcWZoS05ON3ZOOVV0TE4wTTUzVU44QVNyemxZMVNFYk9mTnBRZTNhaTlqV2treFAyNEFCN0JXWnBOdw?oc=5",
-      "published": "Tue, 24 Nov 2026 09:00:00 GMT",
-      "snippet": "Oldest known quasar formed 630 million years after the big bang &nbsp;&nbsp; Popular Science",
-      "source": "Popular Science",
-      "category": "science"
-    },
-    {
-      "title": "Scientists discover quasar formed 630 million years after the Big Bang",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWQ4MjJwb3M5ejZIa0dUbDBncmVLaDAwMzlHQTd1QUFXQW9LQkVnOW8yNWJ3SjVONGRQZk80bDlpTDduR3VhQlA4d1pOdWRBVWpFT1F2WEwyTnpKTS1OVV9ZaHRCb3BST290N1RwMHZ1NmpLNlVYeW93NzVPNW1tREJ5MVBXcFZhS29sNVlDdnA3YWhkT3Bjb1l1UjdtVEg2UkNmcUZR0gGmAUFVX3lxTE1FTTBrQzU0VWo2ZHIxSlhqYUpqaE1nMmJhVUQ5VUFjT0F3WXV3cy00eFdkUU5oSnV3Q1E5RERrdTFqWk52Ql81aE9ITmNidHBfaFl3THpDa3VkWjBHdXBfN2pjdVVuaW5Hc3BwMzhmRkx4V0dhOVlhT0lYZFlQd0ZQWVVuTHdQYkdlMmRGUEtoa29RNVVKZXhpZDJwR0N1bnZUVnhCV3c?oc=5",
-      "published": "Tue, 24 Nov 2026 22:56:59 GMT",
-      "snippet": "Scientists discover quasar formed 630 million years after the Big Bang &nbsp;&nbsp; DW.com",
-      "source": "DW.com",
-      "category": "science"
-    },
-    {
-      "title": "China corruption watchdog investigates senior science ministry official Liu Min",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORDJvLXFnUWhOdDZ0YVRIakdrNHdDbXN1UHF2bGw4WTRSQ2RRaWZBbEg4aV9mUVpsa0ZIOXMyV3NFaEJIVlZHOGNacHl4MzJvV0xTRHFSM3RlRk5sZGtKMEU3dXFYUFh6Q1hzTjdwSm9EWU9CWnNCTFdTaENncUZzclR1dDB1MkxFcnBEREl4SlFNeGZqLXJxYXdBUS1teV9HellyMXdBN2F6MklIblNWWFBuRDRxUjFkWDRfX0huX2J6WkhvbFg2bDZVQ2h3Y2FHZGfSAdIBQVVfeXFMTkloUDFtbW1RU3dUbFE4UkZibEdOT3RQc2Y2UFpjejktb19KSWZzaUtNU21Sc2hYeUgyc05UWmV2aWxwSElOd1ZCOE04LWlTY05uMU5YSTVqclUwM0VfcjU1X3FQSG5YazBBeEp4WlkxTWs5YUtmMkpYR0RUNU9MRGxFSE5jMG5SbkhpMkkyRVNnblh3MW9YWkdRc3JSVmwxMmNndEswczc3YzB6LWJJZkg1d1JOQklUbFRFRFdVc0dMWkhuQnY5bFlRT3Y3MWRBM0R3?oc=5",
-      "published": "Tue, 24 Nov 2026 04:57:19 GMT",
-      "snippet": "China corruption watchdog investigates senior science ministry official Liu Min &nbsp;&nbsp; South China Morning Post",
-      "source": "South China Morning Post",
-      "category": "science"
-    },
-    {
-      "title": "Earth's next ice age may have already begun. Global warming stopped it",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jVjU0bG5HbWd3REY2Vk5sZzNJa0V5YU82Qk50OXk2aHNQODJMWWdXNnl2MDZBblFsY3d5UGo3MXpCSXBFU1NGendMeGNjQUVqMml6NEFQakIwVzNWU0F1SmFYcnJBVFl6X0NEczBNbw?oc=5",
-      "published": "Tue, 24 Nov 2026 09:31:10 GMT",
-      "snippet": "Earth's next ice age may have already begun. Global warming stopped it &nbsp;&nbsp; ScienceDaily",
-      "source": "ScienceDaily",
+      "title": "Republican Chad Westberg brings ag science expertise and business focus to state House",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWEltOURWb1NmRmU4cmR4OHpiYTVSMlRZLW1HRGh3VVRtNUdEX1BLVDI2TXpZZUt6WTkyM2NBZndNUmZubWM4LTlrMmUybXdWMkJ4VENzODJzbXRkX0UtX21UQks1Y3dRcWFKb3dTeVVzaTNELXY0SDZpWGRwVm9iVG9fRzY4VEVRS1NycGpFb3pVbWFBdmR6U3I0ZDVIQWdieXVuZmtjMWZWV1hFdHVoQWphOVVXbGVnN3czbzMwVVhrX2htQjY0?oc=5",
+      "published": "Wed, 25 Nov 2026 12:06:56 GMT",
+      "snippet": "Republican Chad Westberg brings ag science expertise and business focus to state House &nbsp;&nbsp; Minnesota Reformer",
+      "source": "Minnesota Reformer",
       "category": "science"
     }
   ]
